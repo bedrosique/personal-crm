@@ -1,0 +1,34 @@
+# CLAUDE.md
+
+## Проект
+
+- Личная CRM: веду контакты людей, которых знаю лично
+- Идея, главный сценарий, ограничения - `specs/01-продуктовая-идея.md`
+- Как запустить - `README.md`
+
+## Как со мной работать
+
+- Отвечай по-русски, простыми словами: я не разработчик
+- Продуктовые решения принимаю я: чего нет в спеке - спроси, не додумывай
+- Перед необратимым действием спроси: удаление данных, перезапись истории git
+- Сделал - скажи, как проверить результат руками
+
+## Язык кода
+
+- Код и всё, что к нему относится, - на английском: имена файлов, переменных, функций, таблиц и полей, комментарии, тексты ошибок и логов, коммиты, ветки, PR
+- На русском - только тексты интерфейса, которые видит пользователь, и README.md
+
+## Стек
+
+- Next.js (App Router), TypeScript
+- React, Tailwind CSS, shadcn/ui
+- PostgreSQL, Drizzle: схема и миграции в коде
+- pnpm, `pnpm-lock.yaml` в git
+- Docker: локально только Postgres
+- Библиотеки подбирай сам, новый внешний сервис - обсуждай со мной
+
+## Секреты
+
+- Пароли, ключи, строки подключения - только в `.env`; в git - `.env.example` без значений; `.env` в `.gitignore`
+
+- Do not read or display the contents of `.env` or any `.env*` file containing secrets without the user's explicit permission. Do not expose secrets through logs, command output, diffs, or expanded Docker configuration. Tools may consume `.env` for startup and connection checks without displaying its contents. `.env.example` must contain variable names with empty values only.

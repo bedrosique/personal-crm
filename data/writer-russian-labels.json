@@ -1,0 +1,2111 @@
+{
+  "preparedAt": "2026-10-18T10:29:48.932Z",
+  "policy": "Only attested Russian names and titles; no automatic translation.",
+  "entities": {
+    "Q612570": {
+      "value": "Лелия",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BB%D0%B8%D1%8F_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)",
+      "basis": "Russian Wikipedia article title"
+    },
+    "Q238514": {
+      "value": "Наваль ас-Саадави",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C_%D0%B0%D1%81-%D0%A1%D0%B0%D0%B0%D0%B4%D0%B0%D0%B2%D0%B8",
+      "basis": "Russian Wikipedia article title"
+    },
+    "Q1191071": {
+      "value": "V.",
+      "source": "https://ru.wikipedia.org/wiki/V._(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)",
+      "basis": "Russian Wikipedia article title"
+    },
+    "Q219437": {
+      "value": "2666",
+      "source": "https://ru.wikipedia.org/wiki/2666_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)",
+      "basis": "Russian Wikipedia article title"
+    },
+    "Q4129177": {
+      "value": "Вырождение (Нордау)",
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_(%D0%9D%D0%BE%D1%80%D0%B4%D0%B0%D1%83)",
+      "basis": "Russian Wikipedia article title"
+    },
+    "Q1530559": {
+      "value": "Захар Прилепин",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BB%D0%B5%D0%BF%D0%B8%D0%BD,_%D0%97%D0%B0%D1%85%D0%B0%D1%80",
+      "basis": "Russian Wikipedia article title"
+    },
+    "Q151578": {
+      "value": "Когда главенствует дух",
+      "source": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B2%D1%83%D0%B0%D1%80,_%D0%A1%D0%B8%D0%BC%D0%BE%D0%BD%D0%B0_%D0%B4%D0%B5",
+      "revision": 155354381,
+      "originalTitle": "When Things of the Spirit Come First",
+      "evidence": "Когда главенствует дух",
+      "basis": "Russian title attested alongside the original title in the author bibliography",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1678727": {
+      "value": "Голоса народов в песнях",
+      "source": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%B4%D0%B5%D1%80,_%D0%98%D0%BE%D0%B3%D0%B0%D0%BD%D0%BD_%D0%93%D0%BE%D1%82%D1%84%D1%80%D0%B8%D0%B4",
+      "revision": 155324480,
+      "originalTitle": "Stimmen der Völker in Liedern",
+      "evidence": "Голоса народов в песнях",
+      "basis": "Russian title attested alongside the original title in the author bibliography",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3202051": {
+      "value": "Кольцо и книга",
+      "source": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D1%83%D0%BD%D0%B8%D0%BD%D0%B3,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82",
+      "revision": 153713887,
+      "originalTitle": "The Ring and the Book",
+      "evidence": "Кольцо и книга",
+      "basis": "Russian title attested alongside the original title in the author bibliography",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q945069": {
+      "value": "Сонеты с португальского",
+      "source": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D1%83%D0%BD%D0%B8%D0%BD%D0%B3,_%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82_%D0%91%D0%B0%D1%80%D1%80%D0%B5%D1%82%D1%82",
+      "revision": 155294794,
+      "originalTitle": "Sonnets from the Portuguese",
+      "evidence": "Сонеты с португальского",
+      "basis": "Russian title attested alongside the original title in the author bibliography",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q353180": {
+      "value": "Ленц",
+      "source": "https://ru.wikipedia.org/wiki/%D0%91%D1%8E%D1%85%D0%BD%D0%B5%D1%80,_%D0%93%D0%B5%D0%BE%D1%80%D0%B3",
+      "revision": 149821645,
+      "originalTitle": "Lenz",
+      "evidence": "Ленц",
+      "basis": "Russian title attested alongside the original title in the author bibliography",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1741561": {
+      "value": "Задачи для оттачивания молодого ума",
+      "source": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%BA%D1%83%D0%B8%D0%BD",
+      "revision": 150167273,
+      "originalTitle": "Propositiones ad Acuendos Juvenes",
+      "evidence": "Задачи для оттачивания молодого ума",
+      "basis": "Russian title attested alongside the original title in the author bibliography",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q7271209": {
+      "value": "Несколько портретов-сонетов женщин",
+      "source": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%BD%D0%B8,_%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D0%B8",
+      "revision": 155291497,
+      "originalTitle": "Quelques Portraits-Sonnets de Femmes",
+      "evidence": "Несколько портретов-сонетов женщин",
+      "basis": "Russian title attested alongside the original title in the author bibliography",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3823447": {
+      "value": "Притча о сеятеле",
+      "source": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%82%D0%BB%D0%B5%D1%80,_%D0%9E%D0%BA%D1%82%D0%B0%D0%B2%D0%B8%D1%8F",
+      "revision": 154691532,
+      "originalTitle": "Parable of the Sower",
+      "evidence": "Притча о сеятеле",
+      "basis": "Russian title attested alongside the original title in the author bibliography",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q20981730": {
+      "value": "Горняк",
+      "source": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D1%80%D0%B0%D1%85%D0%B0%D0%BC%D1%81,_%D0%9F%D0%B8%D1%82%D0%B5%D1%80_%D0%93%D0%B5%D0%BD%D1%80%D0%B8",
+      "revision": 149840879,
+      "originalTitle": "Mine Boy",
+      "evidence": "Горняк",
+      "basis": "Russian title attested alongside the original title in the author bibliography",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q22812472": {
+      "value": "Херувимский странник",
+      "source": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%B5%D0%BB%D1%83%D1%81_%D0%A1%D0%B8%D0%BB%D0%B5%D0%B7%D0%B8%D1%83%D1%81",
+      "revision": 153732338,
+      "originalTitle": "Cherubinischer Wandersmann",
+      "evidence": "Херувимский странник",
+      "basis": "Russian title attested alongside the original title in the author bibliography",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3312480": {
+      "value": "Одиночество",
+      "source": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82,_%D0%9A%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0",
+      "revision": 136874943,
+      "originalTitle": "Solitud",
+      "evidence": "Одиночество",
+      "basis": "Russian title attested alongside the original title in the author bibliography",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q537982": {
+      "value": "Десять меченосцев",
+      "source": "https://ru.wikipedia.org/wiki/%D0%81%D1%81%D0%B8%D0%BA%D0%B0%D0%B2%D0%B0,_%D0%AD%D0%B9%D0%B4%D0%B7%D0%B8",
+      "revision": 154369802,
+      "originalTitle": "Musashi",
+      "evidence": "Десять меченосцев",
+      "basis": "Russian title attested alongside the original title in the author bibliography",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q4927761": {
+      "value": "Кровь и внутренности в старшей школе",
+      "source": "https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%B5%D1%80,_%D0%9A%D1%8D%D1%82%D0%B8",
+      "revision": 147515298,
+      "originalTitle": "Blood and Guts in High School",
+      "evidence": "Кровь и внутренности в старшей школе",
+      "basis": "Russian title attested alongside the original title in the author bibliography",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q4540275": {
+      "value": "Арена",
+      "source": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D1%83%D0%BD,_%D0%A4%D1%80%D0%B5%D0%B4%D0%B5%D1%80%D0%B8%D0%BA_(%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C)",
+      "revision": 147491178,
+      "originalTitle": "Arena",
+      "evidence": "Арена",
+      "basis": "Russian title attested alongside the original title in the author bibliography",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q12020365": {
+      "value": "Гость в доме",
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D0%BA%D0%B5%D1%80,_%D0%98%D1%80%D0%B6%D0%B8",
+      "revision": 140444528,
+      "originalTitle": "Host do domu",
+      "evidence": "Гость в доме",
+      "basis": "Russian title attested alongside the original title in the author bibliography",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q35714": {
+      "value": "Перед законом",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%84%D0%BA%D0%B0,_%D0%A4%D1%80%D0%B0%D0%BD%D1%86",
+      "revision": 155317763,
+      "originalTitle": "Before the Law",
+      "workSource": "https://www.wikidata.org/wiki/Q35714",
+      "evidence": "Перед законом",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q4391398": {
+      "value": "Думы тихой ночью",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8_%D0%91%D0%BE",
+      "revision": 154080542,
+      "originalTitle": "Quiet Night Thought",
+      "workSource": "https://www.wikidata.org/wiki/Q4391398",
+      "evidence": "Думы тихой ночью",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q677997": {
+      "value": "Наука поэзии",
+      "source": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%B0%D1%86%D0%B8%D0%B9",
+      "revision": 154105959,
+      "originalTitle": "Ars Poetica",
+      "workSource": "https://www.wikidata.org/wiki/Q677997",
+      "evidence": "Наука поэзии",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1033840": {
+      "value": "Всеобщая песнь",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B1%D0%BB%D0%BE_%D0%9D%D0%B5%D1%80%D1%83%D0%B4%D0%B0",
+      "revision": 149819711,
+      "originalTitle": "Canto General",
+      "workSource": "https://www.wikidata.org/wiki/Q1033840",
+      "evidence": "Всеобщая песнь",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q478463": {
+      "value": "Иерусалим",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B3%D0%B5%D1%80%D0%BB%D1%91%D1%84,_%D0%A1%D0%B5%D0%BB%D1%8C%D0%BC%D0%B0",
+      "revision": 155280028,
+      "originalTitle": "Jerusalem",
+      "workSource": "https://www.wikidata.org/wiki/Q478463",
+      "evidence": "Иерусалим",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q5158815": {
+      "value": "Конкордский гимн",
+      "source": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BC%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A0%D0%B0%D0%BB%D1%8C%D1%84_%D0%A3%D0%BE%D0%BB%D0%B4%D0%BE",
+      "revision": 155304004,
+      "originalTitle": "Concord Hymn",
+      "workSource": "https://www.wikidata.org/wiki/Q5158815",
+      "evidence": "Конкордский гимн",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q27462": {
+      "value": "Подземелья Ватикана",
+      "source": "https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D0%B4,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5",
+      "revision": 151405355,
+      "originalTitle": "Les Caves du Vatican",
+      "workSource": "https://www.wikidata.org/wiki/Q27462",
+      "evidence": "Подземелья Ватикана",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q31720": {
+      "value": "Новая жизнь",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BC%D1%83%D0%BA,_%D0%9E%D1%80%D1%85%D0%B0%D0%BD",
+      "revision": 154481116,
+      "originalTitle": "The New Life",
+      "workSource": "https://www.wikidata.org/wiki/Q31720",
+      "evidence": "Новая жизнь",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1210346": {
+      "value": "Словарь английского языка",
+      "source": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BD%D1%81%D0%BE%D0%BD,_%D0%A1%D1%8D%D0%BC%D1%8E%D1%8D%D0%BB",
+      "revision": 153681321,
+      "originalTitle": "A Dictionary of the English Language",
+      "workSource": "https://www.wikidata.org/wiki/Q1210346",
+      "evidence": "Словарь английского языка",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q760771": {
+      "value": "Слишком много счастья",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D1%80%D0%BE,_%D0%AD%D0%BB%D0%B8%D1%81",
+      "revision": 150893244,
+      "originalTitle": "Too Much Happiness",
+      "workSource": "https://www.wikidata.org/wiki/Q760771",
+      "evidence": "Слишком много счастья",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q968741": {
+      "value": "Дети мёртвых",
+      "source": "https://ru.wikipedia.org/wiki/%D0%95%D0%BB%D0%B8%D0%BD%D0%B5%D0%BA,_%D0%AD%D0%BB%D1%8C%D1%84%D1%80%D0%B8%D0%B4%D0%B0",
+      "revision": 149815175,
+      "originalTitle": "The Children of the Dead",
+      "workSource": "https://www.wikidata.org/wiki/Q968741",
+      "evidence": "Дети мёртвых",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3793576": {
+      "value": "Хранитель",
+      "source": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%B4%D0%B8%D0%BC%D0%B5%D1%80,_%D0%9D%D0%B0%D0%B4%D0%B8%D0%BD",
+      "revision": 154401609,
+      "originalTitle": "The Conservationist",
+      "workSource": "https://www.wikidata.org/wiki/Q3793576",
+      "evidence": "Хранитель",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1238893": {
+      "value": "Камыши на ветру",
+      "source": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BB%D0%B5%D0%B4%D0%B4%D0%B0,_%D0%93%D1%80%D0%B0%D1%86%D0%B8%D1%8F",
+      "revision": 151452413,
+      "originalTitle": "Canne al vento",
+      "workSource": "https://www.wikidata.org/wiki/Q1238893",
+      "evidence": "Камыши на ветру",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q31285": {
+      "value": "Тереза Дескейру",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D0%B8%D0%B0%D0%BA,_%D0%A4%D1%80%D0%B0%D0%BD%D1%81%D1%83%D0%B0",
+      "revision": 150157933,
+      "originalTitle": "Thérèse Desqueyroux",
+      "workSource": "https://www.wikidata.org/wiki/Q31285",
+      "evidence": "Тереза Дескейру",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q144132": {
+      "value": "Последнему, что и первому",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A0%D1%91%D1%81%D0%BA%D0%B8%D0%BD,_%D0%94%D0%B6%D0%BE%D0%BD",
+      "revision": 155471783,
+      "originalTitle": "Unto This Last",
+      "workSource": "https://www.wikidata.org/wiki/Q144132",
+      "evidence": "Последнему, что и первому",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1194169": {
+      "value": "Сторож",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BD%D1%82%D0%B5%D1%80,_%D0%93%D0%B0%D1%80%D0%BE%D0%BB%D1%8C%D0%B4",
+      "revision": 155535498,
+      "originalTitle": "The Caretaker",
+      "workSource": "https://www.wikidata.org/wiki/Q1194169",
+      "evidence": "Сторож",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3772120": {
+      "value": "Интерпретаторы",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A8%D0%BE%D0%B9%D0%B8%D0%BD%D0%BA%D0%B0,_%D0%92%D0%BE%D0%BB%D0%B5",
+      "revision": 154991943,
+      "originalTitle": "The Interpreters",
+      "workSource": "https://www.wikidata.org/wiki/Q3772120",
+      "evidence": "Интерпретаторы",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q482567": {
+      "value": "Излучина реки",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B9%D0%BF%D0%BE%D0%BB,_%D0%92%D0%B8%D0%B4%D0%B8%D0%B0%D0%B4%D1%85%D0%B0%D1%80_%D0%A1%D1%83%D1%80%D0%B0%D0%B4%D0%B6%D0%BF%D1%80%D0%B0%D1%81%D0%B0%D0%B4",
+      "revision": 152393226,
+      "originalTitle": "A Bend in the River",
+      "workSource": "https://www.wikidata.org/wiki/Q482567",
+      "evidence": "Излучина реки",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3795119": {
+      "value": "Наслаждение",
+      "source": "https://ru.wikipedia.org/wiki/%D0%94%E2%80%99%D0%90%D0%BD%D0%BD%D1%83%D0%BD%D1%86%D0%B8%D0%BE,_%D0%93%D0%B0%D0%B1%D1%80%D0%B8%D0%B5%D0%BB%D0%B5",
+      "revision": 155664626,
+      "originalTitle": "Il Piacere",
+      "workSource": "https://www.wikidata.org/wiki/Q3795119",
+      "evidence": "Наслаждение",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q2520460": {
+      "value": "Траур — участь Электры",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9E%E2%80%99%D0%9D%D0%B8%D0%BB,_%D0%AE%D0%B4%D0%B6%D0%B8%D0%BD",
+      "revision": 154868992,
+      "originalTitle": "Mourning Becomes Electra",
+      "workSource": "https://www.wikidata.org/wiki/Q2520460",
+      "evidence": "Траур — участь Электры",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q5247576": {
+      "value": "Смерть натуралиста",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BD%D0%B8,_%D0%A8%D0%B5%D0%B9%D0%BC%D0%B0%D1%81",
+      "revision": 154084252,
+      "originalTitle": "Death of a Naturalist",
+      "workSource": "https://www.wikidata.org/wiki/Q5247576",
+      "evidence": "Смерть натуралиста",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q945588": {
+      "value": "Пустыня",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BA%D0%BB%D0%B5%D0%B7%D0%B8%D0%BE,_%D0%96%D0%B0%D0%BD-%D0%9C%D0%B0%D1%80%D0%B8_%D0%93%D1%8E%D1%81%D1%82%D0%B0%D0%B2",
+      "revision": 153697508,
+      "originalTitle": "Désert",
+      "workSource": "https://www.wikidata.org/wiki/Q945588",
+      "evidence": "Пустыня",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1216613": {
+      "value": "Стулья",
+      "source": "https://ru.wikipedia.org/wiki/%D0%98%D0%BE%D0%BD%D0%B5%D1%81%D0%BA%D0%BE,_%D0%AD%D0%B6%D0%B5%D0%BD",
+      "revision": 152899863,
+      "originalTitle": "The Chairs",
+      "workSource": "https://www.wikidata.org/wiki/Q1216613",
+      "evidence": "Стулья",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q6538013": {
+      "value": "Легенды Гватемалы",
+      "source": "https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D1%83%D1%80%D0%B8%D0%B0%D1%81,_%D0%9C%D0%B8%D0%B3%D0%B5%D0%BB%D1%8C_%D0%90%D0%BD%D1%85%D0%B5%D0%BB%D1%8C",
+      "revision": 147489573,
+      "originalTitle": "Leyendas de Guatemala",
+      "workSource": "https://www.wikidata.org/wiki/Q6538013",
+      "evidence": "Легенды Гватемалы",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3828908": {
+      "value": "Обстоятельства",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%BB%D0%B5,_%D0%AD%D1%83%D0%B4%D0%B6%D0%B5%D0%BD%D0%B8%D0%BE",
+      "revision": 151356460,
+      "originalTitle": "Le occasioni",
+      "workSource": "https://www.wikidata.org/wiki/Q3828908",
+      "evidence": "Обстоятельства",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q252283": {
+      "value": "Страх вратаря перед одиннадцатиметровым",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BD%D0%B4%D0%BA%D0%B5,_%D0%9F%D0%B5%D1%82%D0%B5%D1%80",
+      "revision": 149349653,
+      "originalTitle": "The Goalie's Anxiety at the Penalty Kick",
+      "workSource": "https://www.wikidata.org/wiki/Q252283",
+      "evidence": "Страх вратаря перед одиннадцатиметровым",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q2845019": {
+      "value": "Анабасис",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD-%D0%96%D0%BE%D0%BD_%D0%9F%D0%B5%D1%80%D1%81",
+      "revision": 148689368,
+      "originalTitle": "Anabase",
+      "workSource": "https://www.wikidata.org/wiki/Q2845019",
+      "evidence": "Анабасис",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q7942045": {
+      "value": "Фосс",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B0%D0%B9%D1%82,_%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BA",
+      "revision": 153912934,
+      "originalTitle": "Voss",
+      "workSource": "https://www.wikidata.org/wiki/Q7942045",
+      "evidence": "Фосс",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q106685185": {
+      "value": "Дельта Венеры",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BD,_%D0%90%D0%BD%D0%B0%D0%B8%D1%81",
+      "revision": 151030111,
+      "originalTitle": "Delta of Venus",
+      "workSource": "https://www.wikidata.org/wiki/Q106685185",
+      "evidence": "Дельта Венеры",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1758876": {
+      "value": "Падение короля",
+      "source": "https://ru.wikipedia.org/wiki/%D0%99%D0%B5%D0%BD%D1%81%D0%B5%D0%BD,_%D0%99%D0%BE%D1%85%D0%B0%D0%BD%D0%BD%D0%B5%D1%81_%D0%92%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BB%D1%8C%D0%BC",
+      "revision": 150498077,
+      "originalTitle": "The Fall of the King",
+      "workSource": "https://www.wikidata.org/wiki/Q1758876",
+      "evidence": "Падение короля",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q5264102": {
+      "value": "Дезертирство",
+      "source": "https://ru.wikipedia.org/wiki/%D0%93%D1%83%D1%80%D0%BD%D0%B0,_%D0%90%D0%B1%D0%B4%D1%83%D0%BB%D1%80%D0%B0%D0%B7%D0%B0%D0%BA",
+      "revision": 150862943,
+      "originalTitle": "Desertion",
+      "workSource": "https://www.wikidata.org/wiki/Q5264102",
+      "evidence": "Дезертирство",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q19274304": {
+      "value": "Камнеломы",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%BE,_%D0%98%D0%B2%D0%B0%D0%BD_%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2%D0%B8%D1%87",
+      "revision": 154834024,
+      "originalTitle": "Kameniari",
+      "workSource": "https://www.wikidata.org/wiki/Q19274304",
+      "evidence": "Камнеломы",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q582047": {
+      "value": "Преступление",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D1%82%D0%BE%D0%BC%D0%B1,_%D0%90%D0%BC%D0%B5%D0%BB%D0%B8",
+      "revision": 153224165,
+      "originalTitle": "Attentat",
+      "workSource": "https://www.wikidata.org/wiki/Q582047",
+      "evidence": "Преступление",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q209632": {
+      "value": "Терра Ностра",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%8D%D0%BD%D1%82%D0%B5%D1%81,_%D0%9A%D0%B0%D1%80%D0%BB%D0%BE%D1%81",
+      "revision": 155655902,
+      "originalTitle": "Terra Nostra",
+      "workSource": "https://www.wikidata.org/wiki/Q209632",
+      "evidence": "Терра Ностра",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3365977": {
+      "value": "Слова",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B2%D0%B5%D1%80,_%D0%96%D0%B0%D0%BA",
+      "revision": 152185410,
+      "originalTitle": "Paroles",
+      "workSource": "https://www.wikidata.org/wiki/Q3365977",
+      "evidence": "Слова",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q179500": {
+      "value": "Грета Минде",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BD%D1%82%D0%B0%D0%BD%D0%B5,_%D0%A2%D0%B5%D0%BE%D0%B4%D0%BE%D1%80",
+      "revision": 155450059,
+      "originalTitle": "Grete Minde",
+      "workSource": "https://www.wikidata.org/wiki/Q179500",
+      "evidence": "Грета Минде",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q51178": {
+      "value": "Гробницы",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%81%D0%BA%D0%BE%D0%BB%D0%BE,_%D0%A3%D0%B3%D0%BE",
+      "revision": 147512270,
+      "originalTitle": "Dei Sepolcri",
+      "workSource": "https://www.wikidata.org/wiki/Q51178",
+      "evidence": "Гробницы",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q5725164": {
+      "value": "Человеческая комедия",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%BE%D1%8F%D0%BD,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC",
+      "revision": 148433183,
+      "originalTitle": "The Human Comedy",
+      "workSource": "https://www.wikidata.org/wiki/Q5725164",
+      "evidence": "Человеческая комедия",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q579507": {
+      "value": "Царство земное",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%BF%D0%B5%D0%BD%D1%82%D1%8C%D0%B5%D1%80,_%D0%90%D0%BB%D0%B5%D1%85%D0%BE",
+      "revision": 149835153,
+      "originalTitle": "The Kingdom of this World",
+      "workSource": "https://www.wikidata.org/wiki/Q579507",
+      "evidence": "Царство земное",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3563367": {
+      "value": "Путешествие на Восток",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8C,_%D0%96%D0%B5%D1%80%D0%B0%D1%80_%D0%B4%D0%B5",
+      "revision": 147483768,
+      "originalTitle": "Voyage to the Orient",
+      "workSource": "https://www.wikidata.org/wiki/Q3563367",
+      "evidence": "Путешествие на Восток",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q537246": {
+      "value": "Врата Леванта",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B0%D0%BB%D1%83%D1%84,_%D0%90%D0%BC%D0%B8%D0%BD",
+      "revision": 147484583,
+      "originalTitle": "Ports of Call",
+      "workSource": "https://www.wikidata.org/wiki/Q537246",
+      "evidence": "Врата Леванта",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q6056523": {
+      "value": "Толкователь болезней",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%85%D0%B8%D1%80%D0%B8,_%D0%94%D0%B6%D1%83%D0%BC%D0%BF%D0%B0",
+      "revision": 155590310,
+      "originalTitle": "Interpreter of Maladies",
+      "workSource": "https://www.wikidata.org/wiki/Q6056523",
+      "evidence": "Толкователь болезней",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q7235920": {
+      "value": "Малостранские повести",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%80%D1%83%D0%B4%D0%B0,_%D0%AF%D0%BD",
+      "revision": 147522469,
+      "originalTitle": "Povídky malostranské",
+      "workSource": "https://www.wikidata.org/wiki/Q7235920",
+      "evidence": "Малостранские повести",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q543116": {
+      "value": "Смерть приходит за архиепископом",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9A%D1%8D%D1%81%D0%B5%D1%80,_%D0%A3%D0%B8%D0%BB%D0%BB%D0%B0",
+      "revision": 153133333,
+      "originalTitle": "Death Comes for the Archbishop",
+      "workSource": "https://www.wikidata.org/wiki/Q543116",
+      "evidence": "Смерть приходит за архиепископом",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q905658": {
+      "value": "Безумная из Шайо",
+      "source": "https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D1%80%D0%BE%D0%B4%D1%83,_%D0%96%D0%B0%D0%BD",
+      "revision": 153806075,
+      "originalTitle": "The Madwoman of Chaillot",
+      "workSource": "https://www.wikidata.org/wiki/Q905658",
+      "evidence": "Безумная из Шайо",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q861933": {
+      "value": "Под сенью Корана",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%82%D0%B1,_%D0%A1%D0%B5%D0%B9%D0%B8%D0%B4",
+      "revision": 149867354,
+      "originalTitle": "Fi Zilal al-Quran",
+      "workSource": "https://www.wikidata.org/wiki/Q861933",
+      "evidence": "Под сенью Корана",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1088550": {
+      "value": "Я не боюсь летать",
+      "source": "https://ru.wikipedia.org/wiki/%D0%99%D0%BE%D0%BD%D0%B3,_%D0%AD%D1%80%D0%B8%D0%BA%D0%B0",
+      "revision": 151525003,
+      "originalTitle": "Fear of Flying",
+      "workSource": "https://www.wikidata.org/wiki/Q1088550",
+      "evidence": "Я не боюсь летать",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1198710": {
+      "value": "Кот в сапогах",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BA,_%D0%9B%D1%8E%D0%B4%D0%B2%D0%B8%D0%B3",
+      "revision": 149682097,
+      "originalTitle": "Der gestiefelte Kater",
+      "workSource": "https://www.wikidata.org/wiki/Q1198710",
+      "evidence": "Кот в сапогах",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q19051626": {
+      "value": "Аталанта в Калидоне",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%B8%D0%BD%D0%B1%D0%B5%D1%80%D0%BD,_%D0%90%D0%BB%D0%B4%D0%B6%D0%B5%D1%80%D0%BD%D0%BE%D0%BD_%D0%A7%D0%B0%D1%80%D0%BB%D0%B7",
+      "revision": 140103883,
+      "originalTitle": "Atalanta in Calydon",
+      "workSource": "https://www.wikidata.org/wiki/Q19051626",
+      "evidence": "Аталанта в Калидоне",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3400390": {
+      "value": "Мертвые младенцы",
+      "source": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BC%D0%B8%D1%81,_%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD",
+      "revision": 152078326,
+      "originalTitle": "Dead Babies",
+      "workSource": "https://www.wikidata.org/wiki/Q3400390",
+      "evidence": "Мертвые младенцы",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q358958": {
+      "value": "Пропащий",
+      "source": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BD%D1%85%D0%B0%D1%80%D0%B4,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81",
+      "revision": 154917063,
+      "originalTitle": "The Loser",
+      "workSource": "https://www.wikidata.org/wiki/Q358958",
+      "evidence": "Пропащий",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q895730": {
+      "value": "Всадник на белом коне",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A8%D1%82%D0%BE%D1%80%D0%BC,_%D0%A2%D0%B5%D0%BE%D0%B4%D0%BE%D1%80",
+      "revision": 150448995,
+      "originalTitle": "The Rider on the White Horse",
+      "workSource": "https://www.wikidata.org/wiki/Q895730",
+      "evidence": "Всадник на белом коне",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1195272": {
+      "value": "Равнина в огне",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D0%BB%D1%8C%D1%84%D0%BE,_%D0%A5%D1%83%D0%B0%D0%BD",
+      "revision": 149828799,
+      "originalTitle": "The Burning Plain and Other Stories",
+      "workSource": "https://www.wikidata.org/wiki/Q1195272",
+      "evidence": "Равнина в огне",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3310994": {
+      "value": "Новые листья",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D1%82%D1%80%D0%BE,_%D0%A0%D0%BE%D1%81%D0%B0%D0%BB%D0%B8%D1%8F_%D0%B4%D0%B5",
+      "revision": 152984320,
+      "originalTitle": "Follas novas",
+      "workSource": "https://www.wikidata.org/wiki/Q3310994",
+      "evidence": "Новые листья",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q6675006": {
+      "value": "Взгляни на дом свой, ангел",
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%83%D0%BB%D1%84,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81",
+      "revision": 154637481,
+      "originalTitle": "Look Homeward, Angel",
+      "workSource": "https://www.wikidata.org/wiki/Q6675006",
+      "evidence": "Взгляни на дом свой, ангел",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1171068": {
+      "value": "Тридцатый год",
+      "source": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%85%D0%BC%D0%B0%D0%BD,_%D0%98%D0%BD%D0%B3%D0%B5%D0%B1%D0%BE%D1%80%D0%B3",
+      "revision": 149835184,
+      "originalTitle": "The thirtieth Year",
+      "workSource": "https://www.wikidata.org/wiki/Q1171068",
+      "evidence": "Тридцатый год",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1722225": {
+      "value": "История о калифе-аисте",
+      "source": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%83%D1%84,_%D0%92%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BB%D1%8C%D0%BC",
+      "revision": 154561515,
+      "originalTitle": "The Story of Caliph Stork",
+      "workSource": "https://www.wikidata.org/wiki/Q1722225",
+      "evidence": "История о калифе-аисте",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q941801": {
+      "value": "Соглядатай",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B1-%D0%93%D1%80%D0%B8%D0%B9%D0%B5,_%D0%90%D0%BB%D0%B5%D0%BD",
+      "revision": 153473959,
+      "originalTitle": "The Voyeur",
+      "workSource": "https://www.wikidata.org/wiki/Q941801",
+      "evidence": "Соглядатай",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1163291": {
+      "value": "Гусар на крыше",
+      "source": "https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D0%BE%D0%BD%D0%BE,_%D0%96%D0%B0%D0%BD",
+      "revision": 149867856,
+      "originalTitle": "The Horseman on the Roof",
+      "workSource": "https://www.wikidata.org/wiki/Q1163291",
+      "evidence": "Гусар на крыше",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1492036": {
+      "value": "Песни висельника",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D0%B3%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D1%80%D0%BD,_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD",
+      "revision": 146377318,
+      "originalTitle": "Gallows Songs",
+      "workSource": "https://www.wikidata.org/wiki/Q1492036",
+      "evidence": "Песни висельника",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3222907": {
+      "value": "Грандиозное событие",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B1%D0%BB%D0%B0%D0%BD,_%D0%9C%D0%BE%D1%80%D0%B8%D1%81",
+      "revision": 149973793,
+      "originalTitle": "Le Formidable Événement",
+      "workSource": "https://www.wikidata.org/wiki/Q3222907",
+      "evidence": "Грандиозное событие",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3057582": {
+      "value": "Семейство Майя",
+      "source": "https://ru.wikipedia.org/wiki/%D0%AD%D1%81%D0%B0_%D0%B4%D0%B5_%D0%9A%D0%B5%D0%B9%D1%80%D0%BE%D1%88,_%D0%96%D0%BE%D0%B7%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F",
+      "revision": 154548437,
+      "originalTitle": "Os Maias",
+      "workSource": "https://www.wikidata.org/wiki/Q3057582",
+      "evidence": "Семейство Майя",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q31179": {
+      "value": "Баллада о предместье",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%80%D0%BA,_%D0%9C%D1%8E%D1%80%D0%B8%D1%8D%D0%BB",
+      "revision": 154920825,
+      "originalTitle": "The Ballad of Peckham Rye",
+      "workSource": "https://www.wikidata.org/wiki/Q31179",
+      "evidence": "Баллада о предместье",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q660642": {
+      "value": "История лангобардов",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%94%D0%B8%D0%B0%D0%BA%D0%BE%D0%BD",
+      "revision": 153717631,
+      "originalTitle": "History of the Lombards",
+      "workSource": "https://www.wikidata.org/wiki/Q660642",
+      "evidence": "История лангобардов",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q16537301": {
+      "value": "Стихи",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B4%D0%BE%D0%BD%D0%B8%D0%B9_%D0%90%D0%BF%D0%BE%D0%BB%D0%BB%D0%B8%D0%BD%D0%B0%D1%80%D0%B8%D0%B9",
+      "revision": 151135640,
+      "originalTitle": "Carmina",
+      "workSource": "https://www.wikidata.org/wiki/Q16537301",
+      "evidence": "Стихи",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3878871": {
+      "value": "Ночи в цирке",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%B5%D1%80,_%D0%90%D0%BD%D0%B4%D0%B6%D0%B5%D0%BB%D0%B0",
+      "revision": 147488461,
+      "originalTitle": "Nights at the Circus",
+      "workSource": "https://www.wikidata.org/wiki/Q3878871",
+      "evidence": "Ночи в цирке",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q12899569": {
+      "value": "О Цезарях",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BA%D1%81%D1%82_%D0%90%D0%B2%D1%80%D0%B5%D0%BB%D0%B8%D0%B9_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80",
+      "revision": 155247193,
+      "originalTitle": "De Caesaribus",
+      "workSource": "https://www.wikidata.org/wiki/Q12899569",
+      "evidence": "О Цезарях",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q453720": {
+      "value": "Месье Ибрагим и цветы Корана",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A8%D0%BC%D0%B8%D1%82%D1%82,_%D0%AD%D1%80%D0%B8%D0%BA-%D0%AD%D0%BC%D0%BC%D0%B0%D0%BD%D1%8E%D1%8D%D0%BB%D1%8C",
+      "revision": 154260657,
+      "originalTitle": "M. Ibrahim and the Flowers of the Koran",
+      "workSource": "https://www.wikidata.org/wiki/Q453720",
+      "evidence": "Месье Ибрагим и цветы Корана",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1857708": {
+      "value": "Клуб радости и удачи",
+      "source": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BC%D0%B8_%D0%A2%D0%B0%D0%BD",
+      "revision": 147515046,
+      "originalTitle": "The Joy Luck Club",
+      "workSource": "https://www.wikidata.org/wiki/Q1857708",
+      "evidence": "Клуб радости и удачи",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q2895697": {
+      "value": "Люди под солнцем",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D1%84%D0%B0%D0%BD%D0%B8,_%D0%93%D0%B0%D1%81%D1%81%D0%B0%D0%BD",
+      "revision": 154233024,
+      "originalTitle": "Men in the Sun",
+      "workSource": "https://www.wikidata.org/wiki/Q2895697",
+      "evidence": "Люди под солнцем",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3204567": {
+      "value": "Опопонакс",
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%82%D1%82%D0%B8%D0%B3,_%D0%9C%D0%BE%D0%BD%D0%B8%D0%BA",
+      "revision": 149429365,
+      "originalTitle": "L'Opoponax",
+      "workSource": "https://www.wikidata.org/wiki/Q3204567",
+      "evidence": "Опопонакс",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q6658069": {
+      "value": "Живи или умри",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%BD,_%D0%AD%D0%BD%D0%BD",
+      "revision": 155257066,
+      "originalTitle": "Live or Die",
+      "workSource": "https://www.wikidata.org/wiki/Q6658069",
+      "evidence": "Живи или умри",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q7679410": {
+      "value": "Сказания юга Тихого океана",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%87%D0%B5%D0%BD%D0%B5%D1%80,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81_%D0%AD%D0%BB%D0%B1%D0%B5%D1%80%D1%82",
+      "revision": 154946757,
+      "originalTitle": "Tales of the South Pacific",
+      "workSource": "https://www.wikidata.org/wiki/Q7679410",
+      "evidence": "Сказания юга Тихого океана",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3018200": {
+      "value": "Трактат о трёх доктринах",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BA%D0%B0%D0%B9",
+      "revision": 154444622,
+      "originalTitle": "Sangō Shiiki",
+      "workSource": "https://www.wikidata.org/wiki/Q3018200",
+      "evidence": "Трактат о трёх доктринах",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q5505397": {
+      "value": "С любовью насмерть, Дун",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D0%B4%D0%B5%D0%BB%D0%BB,_%D0%A0%D1%83%D1%82",
+      "revision": 147577783,
+      "originalTitle": "From Doon with Death",
+      "workSource": "https://www.wikidata.org/wiki/Q5505397",
+      "evidence": "С любовью насмерть, Дун",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q7757527": {
+      "value": "Плуг и звёзды",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9E%E2%80%99%D0%9A%D0%B5%D0%B9%D1%81%D0%B8,_%D0%A8%D0%BE%D0%BD",
+      "revision": 149767617,
+      "originalTitle": "The Plough and the Stars",
+      "workSource": "https://www.wikidata.org/wiki/Q7757527",
+      "evidence": "Плуг и звёзды",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q254661": {
+      "value": "Юность без Бога",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D1%80%D0%B2%D0%B0%D1%82,_%D0%AD%D0%B4%D1%91%D0%BD_%D1%84%D0%BE%D0%BD",
+      "revision": 151069061,
+      "originalTitle": "The Age of the Fish",
+      "workSource": "https://www.wikidata.org/wiki/Q254661",
+      "evidence": "Юность без Бога",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q729000": {
+      "value": "Замки гнева",
+      "source": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%B8%D0%BA%D0%BA%D0%BE,_%D0%90%D0%BB%D0%B5%D1%81%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE",
+      "revision": 151448142,
+      "originalTitle": "Castelli di rabbia",
+      "workSource": "https://www.wikidata.org/wiki/Q729000",
+      "evidence": "Замки гнева",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1249393": {
+      "value": "Доктор Глас",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D1%91%D0%B4%D0%B5%D1%80%D0%B1%D0%B5%D1%80%D0%B3,_%D0%AF%D0%BB%D1%8C%D0%BC%D0%B0%D1%80",
+      "revision": 153914297,
+      "originalTitle": "Doctor Glas",
+      "workSource": "https://www.wikidata.org/wiki/Q1249393",
+      "evidence": "Доктор Глас",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q5623474": {
+      "value": "Гвендолен",
+      "source": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D0%B0,_%D0%91%D1%83%D1%87%D0%B8",
+      "revision": 154596444,
+      "originalTitle": "Gwendolen",
+      "workSource": "https://www.wikidata.org/wiki/Q5623474",
+      "evidence": "Гвендолен",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q7766066": {
+      "value": "Канун весны",
+      "source": "https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D1%80%D0%BE%D0%BC%D1%81%D0%BA%D0%B8%D0%B9,_%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD",
+      "revision": 150701193,
+      "originalTitle": "The Spring to Come",
+      "workSource": "https://www.wikidata.org/wiki/Q7766066",
+      "evidence": "Канун весны",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q754464": {
+      "value": "Уроки дыхания",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%BB%D0%B5%D1%80,_%D0%AD%D0%BD%D0%BD",
+      "revision": 152004878,
+      "originalTitle": "Breathing Lessons",
+      "workSource": "https://www.wikidata.org/wiki/Q754464",
+      "evidence": "Уроки дыхания",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q912944": {
+      "value": "Азоланские беседы",
+      "source": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BC%D0%B1%D0%BE,_%D0%9F%D1%8C%D0%B5%D1%82%D1%80%D0%BE",
+      "revision": 146237822,
+      "originalTitle": "Gli Asolani",
+      "workSource": "https://www.wikidata.org/wiki/Q912944",
+      "evidence": "Азоланские беседы",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1213685": {
+      "value": "Бук иудея",
+      "source": "https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%BE%D1%81%D1%82%D0%B5-%D0%A5%D1%8E%D0%BB%D1%8C%D1%81%D1%85%D0%BE%D1%84%D1%84,_%D0%90%D0%BD%D0%BD%D0%B5%D1%82%D1%82%D0%B5_%D1%84%D0%BE%D0%BD",
+      "revision": 146176040,
+      "originalTitle": "The Jew's Beech",
+      "workSource": "https://www.wikidata.org/wiki/Q1213685",
+      "evidence": "Бук иудея",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3223832": {
+      "value": "Небеса подождут",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BE%D0%BD%D0%B0%D1%80%D0%B4,_%D0%AD%D0%BB%D0%BC%D0%BE%D1%80",
+      "revision": 154904241,
+      "originalTitle": "The Hot Kid",
+      "workSource": "https://www.wikidata.org/wiki/Q3223832",
+      "evidence": "Небеса подождут",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3817873": {
+      "value": "Адонис",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%BE,_%D0%94%D0%B6%D0%B0%D0%BC%D0%B1%D0%B0%D1%82%D1%82%D0%B8%D1%81%D1%82%D0%B0",
+      "revision": 153436113,
+      "originalTitle": "L'Adone",
+      "workSource": "https://www.wikidata.org/wiki/Q3817873",
+      "evidence": "Адонис",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q5310750": {
+      "value": "Жизни Дьюбина",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D0%BC%D1%83%D0%B4,_%D0%91%D0%B5%D1%80%D0%BD%D0%B0%D1%80%D0%B4",
+      "revision": 151818899,
+      "originalTitle": "Dubin's Lives",
+      "workSource": "https://www.wikidata.org/wiki/Q5310750",
+      "evidence": "Жизни Дьюбина",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q5439251": {
+      "value": "Фасад",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%82%D1%83%D1%8D%D0%BB%D0%BB,_%D0%AD%D0%B4%D0%B8%D1%82_%D0%9B%D1%83%D0%B8%D0%B7%D0%B0",
+      "revision": 155525235,
+      "originalTitle": "Façade",
+      "workSource": "https://www.wikidata.org/wiki/Q5439251",
+      "evidence": "Фасад",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q5968310": {
+      "value": "Передышка",
+      "source": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D1%82%D1%82%D0%B8,_%D0%9C%D0%B0%D1%80%D0%B8%D0%BE",
+      "revision": 154589550,
+      "originalTitle": "The Truce",
+      "workSource": "https://www.wikidata.org/wiki/Q5968310",
+      "evidence": "Передышка",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q775930": {
+      "value": "Гоп-ля, мы живём!",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BB%D0%BB%D0%B5%D1%80,_%D0%AD%D1%80%D0%BD%D1%81%D1%82",
+      "revision": 155067259,
+      "originalTitle": "Hoppla, We're Alive!",
+      "workSource": "https://www.wikidata.org/wiki/Q775930",
+      "evidence": "Гоп-ля, мы живём!",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3824774": {
+      "value": "Собрание",
+      "source": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D1%80%D0%B0%D0%B9%D1%82,_%D0%AD%D0%BD%D0%BD",
+      "revision": 154467882,
+      "originalTitle": "The Gathering",
+      "workSource": "https://www.wikidata.org/wiki/Q3824774",
+      "evidence": "Собрание",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q4007116": {
+      "value": "Иди, куда ведёт тебя сердце",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BC%D0%B0%D1%80%D0%BE,_%D0%A1%D1%83%D0%B7%D0%B0%D0%BD%D0%BD%D0%B0",
+      "revision": 151898025,
+      "originalTitle": "Va' dove ti porta il cuore",
+      "workSource": "https://www.wikidata.org/wiki/Q4007116",
+      "evidence": "Иди, куда ведёт тебя сердце",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q5187168": {
+      "value": "Рассказы из древности",
+      "source": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%BB%D0%B8%D1%87-%D0%9C%D0%B0%D0%B6%D1%83%D1%80%D0%B0%D0%BD%D0%B8%D1%87,_%D0%98%D0%B2%D0%B0%D0%BD%D0%B0",
+      "revision": 146202521,
+      "originalTitle": "Croatian Tales of Long Ago",
+      "workSource": "https://www.wikidata.org/wiki/Q5187168",
+      "evidence": "Рассказы из древности",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q632047": {
+      "value": "Подожди до весны, Бандини",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%BD%D1%82%D0%B5,_%D0%94%D0%B6%D0%BE%D0%BD",
+      "revision": 153702465,
+      "originalTitle": "Wait until Spring, Bandini",
+      "workSource": "https://www.wikidata.org/wiki/Q632047",
+      "evidence": "Подожди до весны, Бандини",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q2086869": {
+      "value": "Это ослепительное отсутствие света",
+      "source": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BD%D0%B6%D0%B5%D0%BB%D0%BB%D1%83%D0%BD,_%D0%A2%D0%B0%D1%85%D0%B0%D1%80",
+      "revision": 148710125,
+      "originalTitle": "This Blinding Absence of Light",
+      "workSource": "https://www.wikidata.org/wiki/Q2086869",
+      "evidence": "Это ослепительное отсутствие света",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q5752197": {
+      "value": "Кошки-мышки",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A0%D1%8D%D0%BD%D0%BA%D0%B8%D0%BD,_%D0%98%D1%8D%D0%BD",
+      "revision": 154593406,
+      "originalTitle": "Hide and Seek",
+      "workSource": "https://www.wikidata.org/wiki/Q5752197",
+      "evidence": "Кошки-мышки",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q26831088": {
+      "value": "Песни ржи",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D1%8C%D0%B5%D1%80,_%D0%99%D0%B5%D0%BF%D0%BF%D0%B5",
+      "revision": 137786909,
+      "originalTitle": "Rugens sange",
+      "workSource": "https://www.wikidata.org/wiki/Q26831088",
+      "evidence": "Песни ржи",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q30088087": {
+      "value": "Великая надежда",
+      "source": "https://ru.wikipedia.org/wiki/%D0%90%D0%B9%D1%85%D0%B8%D0%BD%D0%B3%D0%B5%D1%80,_%D0%98%D0%BB%D1%8C%D0%B7%D0%B5",
+      "revision": 151328946,
+      "originalTitle": "The Greater Hope",
+      "workSource": "https://www.wikidata.org/wiki/Q30088087",
+      "evidence": "Великая надежда",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1411041": {
+      "value": "Георг Йенач",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B9%D0%B5%D1%80,_%D0%9A%D0%BE%D0%BD%D1%80%D0%B0%D0%B4_%D0%A4%D0%B5%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D0%BD%D0%B4",
+      "revision": 154464021,
+      "originalTitle": "Jürg Jenatsch",
+      "workSource": "https://www.wikidata.org/wiki/Q1411041",
+      "evidence": "Георг Йенач",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3743610": {
+      "value": "В арбузном сахаре",
+      "source": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D1%82%D0%B8%D0%B3%D0%B0%D0%BD,_%D0%A0%D0%B8%D1%87%D0%B0%D1%80%D0%B4",
+      "revision": 149833524,
+      "originalTitle": "In Watermelon Sugar",
+      "workSource": "https://www.wikidata.org/wiki/Q3743610",
+      "evidence": "В арбузном сахаре",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q7720066": {
+      "value": "Мост",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D0%B9%D0%BD,_%D0%A5%D0%B0%D1%80%D1%82",
+      "revision": 154045368,
+      "originalTitle": "The Bridge",
+      "workSource": "https://www.wikidata.org/wiki/Q7720066",
+      "evidence": "Мост",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q12041001": {
+      "value": "Ночь в Карлштейне",
+      "source": "https://ru.wikipedia.org/wiki/%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2_%D0%92%D1%80%D1%85%D0%BB%D0%B8%D1%86%D0%BA%D0%B8%D0%B9",
+      "revision": 153011997,
+      "originalTitle": "Noc na Karlštejně",
+      "workSource": "https://www.wikidata.org/wiki/Q12041001",
+      "evidence": "Ночь в Карлштейне",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q630282": {
+      "value": "Измеряя мир",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BB%D1%8C%D0%BC%D0%B0%D0%BD,_%D0%94%D0%B0%D0%BD%D0%B8%D1%8D%D0%BB%D1%8C",
+      "revision": 150485736,
+      "originalTitle": "Measuring the World",
+      "workSource": "https://www.wikidata.org/wiki/Q630282",
+      "evidence": "Измеряя мир",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q5825206": {
+      "value": "Человек на страже",
+      "source": "https://ru.wikipedia.org/wiki/%D0%AD%D1%80%D0%BD%D0%B0%D0%BD%D0%B4%D0%B5%D1%81,_%D0%9C%D0%B8%D0%B3%D0%B5%D0%BB%D1%8C",
+      "revision": 154545753,
+      "originalTitle": "El hombre acecha",
+      "workSource": "https://www.wikidata.org/wiki/Q5825206",
+      "evidence": "Человек на страже",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q191518": {
+      "value": "Подорванные",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%B9%D0%BD,_%D0%A1%D0%B0%D1%80%D0%B0",
+      "revision": 155338428,
+      "originalTitle": "Blasted",
+      "workSource": "https://www.wikidata.org/wiki/Q191518",
+      "evidence": "Подорванные",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q464019": {
+      "value": "Вино",
+      "source": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%B4%D0%BE%D0%BD%D0%B8,_%D0%93%D0%B5%D0%B7%D0%B0",
+      "revision": 149839438,
+      "originalTitle": "A bor",
+      "workSource": "https://www.wikidata.org/wiki/Q464019",
+      "evidence": "Вино",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1060522": {
+      "value": "Оскар и Люсинда",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9A%D1%8D%D1%80%D0%B8,_%D0%9F%D0%B8%D1%82%D0%B5%D1%80",
+      "revision": 149888961,
+      "originalTitle": "Oscar and Lucinda",
+      "workSource": "https://www.wikidata.org/wiki/Q1060522",
+      "evidence": "Оскар и Люсинда",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q6096661": {
+      "value": "Лишний человек",
+      "source": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D0%B0%D1%81%D1%8B%D1%8F%D0%BD%D1%8B%D0%BA,_%D0%A1%D0%B0%D0%B8%D1%82_%D0%A4%D0%B0%D0%B8%D0%BA",
+      "revision": 146247763,
+      "originalTitle": "The Useless Man",
+      "workSource": "https://www.wikidata.org/wiki/Q6096661",
+      "evidence": "Лишний человек",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q7856410": {
+      "value": "Черепаший Остров",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BD%D0%B0%D0%B9%D0%B4%D0%B5%D1%80,_%D0%93%D1%8D%D1%80%D0%B8",
+      "revision": 147547836,
+      "originalTitle": "Turtle Island",
+      "workSource": "https://www.wikidata.org/wiki/Q7856410",
+      "evidence": "Черепаший Остров",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q15094143": {
+      "value": "Пока не наступит ночь",
+      "source": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B5%D0%BD%D0%B0%D1%81,_%D0%A0%D0%B5%D0%B9%D0%BD%D0%B0%D0%BB%D1%8C%D0%B4%D0%BE",
+      "revision": 153784114,
+      "originalTitle": "Before Night Falls",
+      "workSource": "https://www.wikidata.org/wiki/Q15094143",
+      "evidence": "Пока не наступит ночь",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q17013476": {
+      "value": "Пафнутий",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%BE%D1%81%D0%B2%D0%B8%D1%82%D0%B0_%D0%93%D0%B0%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B3%D0%B5%D0%B9%D0%BC%D1%81%D0%BA%D0%B0%D1%8F",
+      "revision": 151734603,
+      "originalTitle": "Paphnutius",
+      "workSource": "https://www.wikidata.org/wiki/Q17013476",
+      "evidence": "Пафнутий",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q23307612": {
+      "value": "Эми и Исабель",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%83%D1%82,_%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82",
+      "revision": 146832657,
+      "originalTitle": "Amy and Isabelle",
+      "workSource": "https://www.wikidata.org/wiki/Q23307612",
+      "evidence": "Эми и Исабель",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q85807259": {
+      "value": "Дарующий звезды",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B9%D0%B5%D1%81,_%D0%94%D0%B6%D0%BE%D0%B4%D0%B6%D0%BE",
+      "revision": 148384589,
+      "originalTitle": "The Giver of Stars",
+      "workSource": "https://www.wikidata.org/wiki/Q85807259",
+      "evidence": "Дарующий звезды",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q444395": {
+      "value": "В субботу вечером, в воскресенье утром",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BB%D0%BB%D0%B8%D1%82%D0%BE%D1%83,_%D0%90%D0%BB%D0%B0%D0%BD",
+      "revision": 149854530,
+      "originalTitle": "Saturday Night and Sunday Morning",
+      "workSource": "https://www.wikidata.org/wiki/Q444395",
+      "evidence": "В субботу вечером, в воскресенье утром",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q20874605": {
+      "value": "Из кривого ребра",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D1%80%D0%B0%D1%85,_%D0%9D%D1%83%D1%80%D1%83%D0%B4%D0%B4%D0%B8%D0%BD",
+      "revision": 150506485,
+      "originalTitle": "From a Crooked Rib",
+      "workSource": "https://www.wikidata.org/wiki/Q20874605",
+      "evidence": "Из кривого ребра",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q50324213": {
+      "value": "Где обитает забвенье",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%BD%D1%83%D0%B4%D0%B0,_%D0%9B%D1%83%D0%B8%D1%81",
+      "revision": 149824463,
+      "originalTitle": "Donde habite el olvido",
+      "workSource": "https://www.wikidata.org/wiki/Q50324213",
+      "evidence": "Где обитает забвенье",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q913804": {
+      "value": "Становление английского рабочего класса",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC%D0%BF%D1%81%D0%BE%D0%BD,_%D0%AD%D0%B4%D0%B2%D0%B0%D1%80%D0%B4_%D0%9F%D0%B0%D0%BB%D0%BC%D0%B5%D1%80",
+      "revision": 154551699,
+      "originalTitle": "The Making of the English Working Class",
+      "workSource": "https://www.wikidata.org/wiki/Q913804",
+      "evidence": "Становление английского рабочего класса",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3252821": {
+      "value": "Чёрная комедия",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B5%D1%84%D1%84%D0%B5%D1%80,_%D0%9F%D0%B8%D1%82%D0%B5%D1%80",
+      "revision": 155315007,
+      "originalTitle": "Black Comedy",
+      "workSource": "https://www.wikidata.org/wiki/Q3252821",
+      "evidence": "Чёрная комедия",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q5968530": {
+      "value": "Возвращение Мартина Фьерро",
+      "source": "https://ru.wikipedia.org/wiki/%D0%AD%D1%80%D0%BD%D0%B0%D0%BD%D0%B4%D0%B5%D1%81,_%D0%A5%D0%BE%D1%81%D0%B5",
+      "revision": 154737228,
+      "originalTitle": "La vuelta de Martín Fierro",
+      "workSource": "https://www.wikidata.org/wiki/Q5968530",
+      "evidence": "Возвращение Мартина Фьерро",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q10280222": {
+      "value": "Фарс об Инес Перейра",
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%81%D0%B5%D0%BD%D1%82%D0%B5,_%D0%96%D0%B8%D0%BB",
+      "revision": 153973500,
+      "originalTitle": "Farsa de Inês Pereira",
+      "workSource": "https://www.wikidata.org/wiki/Q10280222",
+      "evidence": "Фарс об Инес Перейра",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1287971": {
+      "value": "По тропинкам Севера",
+      "source": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%81%D1%91",
+      "revision": 154358592,
+      "originalTitle": "Oku no Hosomichi",
+      "workSource": "https://www.wikidata.org/wiki/Q1287971",
+      "evidence": "По тропинкам Севера",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3645585": {
+      "value": "Праздник в саду",
+      "source": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B2%D0%B5%D0%BB,_%D0%92%D0%B0%D1%86%D0%BB%D0%B0%D0%B2",
+      "revision": 155436334,
+      "originalTitle": "The Garden Party",
+      "workSource": "https://www.wikidata.org/wiki/Q3645585",
+      "evidence": "Праздник в саду",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q178563": {
+      "value": "Красная комната",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B8%D0%BD%D0%B4%D0%B1%D0%B5%D1%80%D0%B3,_%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82",
+      "revision": 154515129,
+      "originalTitle": "The Red Room",
+      "workSource": "https://www.wikidata.org/wiki/Q178563",
+      "evidence": "Красная комната",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q128670": {
+      "value": "Гимны к ночи",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D0%BB%D0%B8%D1%81",
+      "revision": 153930277,
+      "originalTitle": "Hymns to the Night",
+      "workSource": "https://www.wikidata.org/wiki/Q128670",
+      "evidence": "Гимны к ночи",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3204179": {
+      "value": "Бесконечность",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BE%D0%BF%D0%B0%D1%80%D0%B4%D0%B8,_%D0%94%D0%B6%D0%B0%D0%BA%D0%BE%D0%BC%D0%BE",
+      "revision": 153575223,
+      "originalTitle": "L'Infinito",
+      "workSource": "https://www.wikidata.org/wiki/Q3204179",
+      "evidence": "Бесконечность",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1769011": {
+      "value": "Большая грудь, широкий зад",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE_%D0%AF%D0%BD%D1%8C",
+      "revision": 155372790,
+      "originalTitle": "Big Breasts and Wide Hips",
+      "workSource": "https://www.wikidata.org/wiki/Q1769011",
+      "evidence": "Большая грудь, широкий зад",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q180471": {
+      "value": "Письма с моей мельницы",
+      "source": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%B4%D0%B5,_%D0%90%D0%BB%D1%8C%D1%84%D0%BE%D0%BD%D1%81",
+      "revision": 152020288,
+      "originalTitle": "Letters From My Windmill",
+      "workSource": "https://www.wikidata.org/wiki/Q180471",
+      "evidence": "Письма с моей мельницы",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q11879849": {
+      "value": "О природе",
+      "source": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BC%D0%BF%D0%B5%D0%B4%D0%BE%D0%BA%D0%BB",
+      "revision": 153018351,
+      "originalTitle": "On Nature",
+      "workSource": "https://www.wikidata.org/wiki/Q11879849",
+      "evidence": "О природе",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q282913": {
+      "value": "Витязь Янош",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BD%D0%B4%D0%BE%D1%80_%D0%9F%D0%B5%D1%82%D1%91%D1%84%D0%B8",
+      "revision": 154150658,
+      "originalTitle": "John the Valiant",
+      "workSource": "https://www.wikidata.org/wiki/Q282913",
+      "evidence": "Витязь Янош",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q574887": {
+      "value": "Дейзи Миллер",
+      "source": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81,_%D0%93%D0%B5%D0%BD%D1%80%D0%B8",
+      "revision": 153257214,
+      "originalTitle": "Daisy Miller",
+      "workSource": "https://www.wikidata.org/wiki/Q574887",
+      "evidence": "Дейзи Миллер",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q7755267": {
+      "value": "Ораторы",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B4%D0%B5%D0%BD,_%D0%A3%D0%B8%D1%81%D1%82%D0%B5%D0%BD_%D0%A5%D1%8C%D1%8E",
+      "revision": 155323190,
+      "originalTitle": "The Orators",
+      "workSource": "https://www.wikidata.org/wiki/Q7755267",
+      "evidence": "Ораторы",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q282223": {
+      "value": "Ангелы опустошения",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D1%83%D0%B0%D0%BA,_%D0%94%D0%B6%D0%B5%D0%BA",
+      "revision": 155328734,
+      "originalTitle": "Desolation Angels",
+      "workSource": "https://www.wikidata.org/wiki/Q282223",
+      "evidence": "Ангелы опустошения",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q19657306": {
+      "value": "Человеческие поступки",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BD_%D0%93%D0%B0%D0%BD",
+      "revision": 154047975,
+      "originalTitle": "Human Acts",
+      "workSource": "https://www.wikidata.org/wiki/Q19657306",
+      "evidence": "Человеческие поступки",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1002647": {
+      "value": "Семья Паскуаля Дуарте",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D0%B0,_%D0%9A%D0%B0%D0%BC%D0%B8%D0%BB%D0%BE_%D0%A5%D0%BE%D1%81%D0%B5",
+      "revision": 154357421,
+      "originalTitle": "The Family of Pascual Duarte",
+      "workSource": "https://www.wikidata.org/wiki/Q1002647",
+      "evidence": "Семья Паскуаля Дуарте",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1041621": {
+      "value": "Муки ада",
+      "source": "https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D1%83%D1%82%D0%B0%D0%B3%D0%B0%D0%B2%D0%B0,_%D0%A0%D1%8E%D0%BD%D0%BE%D1%81%D0%BA%D1%8D",
+      "revision": 154217374,
+      "originalTitle": "Hell Screen",
+      "workSource": "https://www.wikidata.org/wiki/Q1041621",
+      "evidence": "Муки ада",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q6548960": {
+      "value": "Олимпийская весна",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A8%D0%BF%D0%B8%D1%82%D1%82%D0%B5%D0%BB%D0%B5%D1%80,_%D0%9A%D0%B0%D1%80%D0%BB",
+      "revision": 155335109,
+      "originalTitle": "Olympian Spring",
+      "workSource": "https://www.wikidata.org/wiki/Q6548960",
+      "evidence": "Олимпийская весна",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q471831": {
+      "value": "Аминта",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%81%D1%81%D0%BE,_%D0%A2%D0%BE%D1%80%D0%BA%D0%B2%D0%B0%D1%82%D0%BE",
+      "revision": 150156803,
+      "originalTitle": "Aminta",
+      "workSource": "https://www.wikidata.org/wiki/Q471831",
+      "evidence": "Аминта",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q47467255": {
+      "value": "Достойно есть",
+      "source": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B8%D1%82%D0%B8%D1%81,_%D0%9E%D0%B4%D0%B8%D1%81%D0%B5%D0%B0%D1%81",
+      "revision": 149831249,
+      "originalTitle": "Axion Esti",
+      "workSource": "https://www.wikidata.org/wiki/Q47467255",
+      "evidence": "Достойно есть",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3237838": {
+      "value": "Свобода",
+      "source": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D1%8E%D0%B0%D1%80,_%D0%9F%D0%BE%D0%BB%D1%8C",
+      "revision": 154494810,
+      "originalTitle": "Liberté, j'écris ton nom",
+      "workSource": "https://www.wikidata.org/wiki/Q3237838",
+      "evidence": "Свобода",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q11989942": {
+      "value": "Утро и вечер",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%81%D1%81%D0%B5,_%D0%AE%D0%BD",
+      "revision": 155214383,
+      "originalTitle": "Morning and Evening",
+      "workSource": "https://www.wikidata.org/wiki/Q11989942",
+      "evidence": "Утро и вечер",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q7784409": {
+      "value": "Приключения Калеба Уильямса",
+      "source": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC",
+      "revision": 155446918,
+      "originalTitle": "Things as They Are; or, The Adventures of Caleb Williams",
+      "workSource": "https://www.wikidata.org/wiki/Q7784409",
+      "evidence": "Приключения Калеба Уильямса",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q2833629": {
+      "value": "Туннель",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B1%D0%B0%D1%82%D0%BE,_%D0%AD%D1%80%D0%BD%D0%B5%D1%81%D1%82%D0%BE",
+      "revision": 152525597,
+      "originalTitle": "El Túnel",
+      "workSource": "https://www.wikidata.org/wiki/Q2833629",
+      "evidence": "Туннель",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q696502": {
+      "value": "Шантеклер",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%82%D0%B0%D0%BD,_%D0%AD%D0%B4%D0%BC%D0%BE%D0%BD",
+      "revision": 148686737,
+      "originalTitle": "Chantecler",
+      "workSource": "https://www.wikidata.org/wiki/Q696502",
+      "evidence": "Шантеклер",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1476619": {
+      "value": "Их глаза видели Бога",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A5%D1%91%D1%80%D1%81%D1%82%D0%BE%D0%BD,_%D0%97%D0%BE%D1%80%D0%B0_%D0%9D%D0%B8%D1%8D%D0%BB",
+      "revision": 154602800,
+      "originalTitle": "Their Eyes Were Watching God",
+      "workSource": "https://www.wikidata.org/wiki/Q1476619",
+      "evidence": "Их глаза видели Бога",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q5494514": {
+      "value": "Испания, да минует меня чаша сия",
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BB%D1%8C%D0%B5%D1%85%D0%BE,_%D0%A1%D0%B5%D1%81%D0%B0%D1%80",
+      "revision": 149828705,
+      "originalTitle": "Spain, take this cup from me",
+      "workSource": "https://www.wikidata.org/wiki/Q5494514",
+      "evidence": "Испания, да минует меня чаша сия",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q7017378": {
+      "value": "Патерсон",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC%D1%81,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC_%D0%9A%D0%B0%D1%80%D0%BB%D0%BE%D1%81",
+      "revision": 153997965,
+      "originalTitle": "Paterson",
+      "workSource": "https://www.wikidata.org/wiki/Q7017378",
+      "evidence": "Патерсон",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q7731604": {
+      "value": "Воспитание Генри Адамса",
+      "source": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%B0%D0%BC%D1%81,_%D0%93%D0%B5%D0%BD%D1%80%D0%B8_%D0%91%D1%80%D1%83%D0%BA%D1%81",
+      "revision": 155325556,
+      "originalTitle": "The Education of Henry Adams",
+      "workSource": "https://www.wikidata.org/wiki/Q7731604",
+      "evidence": "Воспитание Генри Адамса",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3615056": {
+      "value": "Анархия в Баварии",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D1%81%D0%B1%D0%B8%D0%BD%D0%B4%D0%B5%D1%80,_%D0%A0%D0%B0%D0%B9%D0%BD%D0%B5%D1%80_%D0%92%D0%B5%D1%80%D0%BD%D0%B5%D1%80",
+      "revision": 155623682,
+      "originalTitle": "Anarchy in Bavaria",
+      "workSource": "https://www.wikidata.org/wiki/Q3615056",
+      "evidence": "Анархия в Баварии",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q15783827": {
+      "value": "Явления",
+      "source": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%BA",
+      "revision": 155539083,
+      "originalTitle": "Aratea",
+      "workSource": "https://www.wikidata.org/wiki/Q15783827",
+      "evidence": "Явления",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q728702": {
+      "value": "Саул",
+      "source": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D1%84%D1%8C%D0%B5%D1%80%D0%B8,_%D0%92%D0%B8%D1%82%D1%82%D0%BE%D1%80%D0%B8%D0%BE",
+      "revision": 153869439,
+      "originalTitle": "Saul",
+      "workSource": "https://www.wikidata.org/wiki/Q728702",
+      "evidence": "Саул",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3124055": {
+      "value": "Обитель радости",
+      "source": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BD%D0%BA%D0%B8%D0%BC%D1%87%D0%BE%D0%BD%D0%B4%D1%80%D0%BE_%D0%A7%D0%BE%D1%82%D1%82%D0%BE%D0%BF%D0%B0%D0%B4%D0%B4%D1%85%D0%B0%D0%B9",
+      "revision": 150857942,
+      "originalTitle": "Anandamath",
+      "workSource": "https://www.wikidata.org/wiki/Q3124055",
+      "evidence": "Обитель радости",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q201668": {
+      "value": "Деяния и суждения доктора Фаустролля, патафизика",
+      "source": "https://ru.wikipedia.org/wiki/%D0%96%D0%B0%D1%80%D1%80%D0%B8,_%D0%90%D0%BB%D1%8C%D1%84%D1%80%D0%B5%D0%B4",
+      "revision": 153832884,
+      "originalTitle": "Exploits and Opinions of Dr. Faustroll, Pataphysician",
+      "workSource": "https://www.wikidata.org/wiki/Q201668",
+      "evidence": "Деяния и суждения доктора Фаустролля, патафизика",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q42187904": {
+      "value": "Хроника",
+      "source": "https://ru.wikipedia.org/wiki/%D0%90%D0%BF%D0%BE%D0%BB%D0%BB%D0%BE%D0%B4%D0%BE%D1%80_%D0%90%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9",
+      "revision": 153336294,
+      "originalTitle": "Chronicle",
+      "workSource": "https://www.wikidata.org/wiki/Q42187904",
+      "evidence": "Хроника",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q87740728": {
+      "value": "Элегии",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%BE%D0%B3%D0%BD%D0%B8%D0%B4",
+      "revision": 145250521,
+      "originalTitle": "Elegies",
+      "workSource": "https://www.wikidata.org/wiki/Q87740728",
+      "evidence": "Элегии",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1696432": {
+      "value": "Замок Грипсхольм",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D1%85%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9,_%D0%9A%D1%83%D1%80%D1%82",
+      "revision": 155201949,
+      "originalTitle": "Castle Gripsholm",
+      "workSource": "https://www.wikidata.org/wiki/Q1696432",
+      "evidence": "Замок Грипсхольм",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q2894491": {
+      "value": "Белинда",
+      "source": "https://ru.wikipedia.org/wiki/%D0%AD%D0%B4%D0%B6%D1%83%D0%BE%D1%80%D1%82,_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F",
+      "revision": 154782629,
+      "originalTitle": "Belinda",
+      "workSource": "https://www.wikidata.org/wiki/Q2894491",
+      "evidence": "Белинда",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q7760957": {
+      "value": "Соперники",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B5%D1%80%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%A0%D0%B8%D1%87%D0%B0%D1%80%D0%B4_%D0%91%D1%80%D0%B8%D0%BD%D1%81%D0%BB%D0%B8",
+      "revision": 152570327,
+      "originalTitle": "The Rivals",
+      "workSource": "https://www.wikidata.org/wiki/Q7760957",
+      "evidence": "Соперники",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q331029": {
+      "value": "О процессе цивилизации",
+      "source": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B8%D0%B0%D1%81,_%D0%9D%D0%BE%D1%80%D0%B1%D0%B5%D1%80%D1%82",
+      "revision": 155589923,
+      "originalTitle": "The Civilizing Process",
+      "workSource": "https://www.wikidata.org/wiki/Q331029",
+      "evidence": "О процессе цивилизации",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q104923387": {
+      "value": "Холм, на который мы взбираемся",
+      "source": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%BC%D0%B0%D0%BD,_%D0%90%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0",
+      "revision": 155285864,
+      "originalTitle": "The Hill We Climb",
+      "workSource": "https://www.wikidata.org/wiki/Q104923387",
+      "evidence": "Холм, на который мы взбираемся",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q178091": {
+      "value": "Прощание",
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%B9%D1%81,_%D0%9F%D0%B5%D1%82%D0%B5%D1%80",
+      "revision": 155206196,
+      "originalTitle": "Leavetaking",
+      "workSource": "https://www.wikidata.org/wiki/Q178091",
+      "evidence": "Прощание",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q9351396": {
+      "value": "Сапожники",
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%82%D0%BA%D0%B5%D0%B2%D0%B8%D1%87,_%D0%A1%D1%82%D0%B0%D0%BD%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%98%D0%B3%D0%BD%D0%B0%D1%86%D0%B8%D0%B9",
+      "revision": 154941624,
+      "originalTitle": "Szewcy",
+      "workSource": "https://www.wikidata.org/wiki/Q9351396",
+      "evidence": "Сапожники",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q371371": {
+      "value": "Дьявол во плоти",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%B3%D0%B5,_%D0%A0%D0%B5%D0%B9%D0%BC%D0%BE%D0%BD",
+      "revision": 147393239,
+      "originalTitle": "Le Diable au corps",
+      "workSource": "https://www.wikidata.org/wiki/Q371371",
+      "evidence": "Дьявол во плоти",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3221351": {
+      "value": "Калькуттская хромосома",
+      "source": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%88,_%D0%90%D0%BC%D0%B8%D1%82%D0%B0%D0%B2",
+      "revision": 153547372,
+      "originalTitle": "The Calcutta Chromosome",
+      "workSource": "https://www.wikidata.org/wiki/Q3221351",
+      "evidence": "Калькуттская хромосома",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q4656363": {
+      "value": "Смерть в семье",
+      "source": "https://ru.wikipedia.org/wiki/%D0%AD%D0%B9%D0%B4%D0%B6%D0%B8,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81",
+      "revision": 151245721,
+      "originalTitle": "A Death in the Family",
+      "workSource": "https://www.wikidata.org/wiki/Q4656363",
+      "evidence": "Смерть в семье",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q5967498": {
+      "value": "Я, Верховный",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B0_%D0%91%D0%B0%D1%81%D1%82%D0%BE%D1%81,_%D0%90%D1%83%D0%B3%D1%83%D1%81%D1%82%D0%BE",
+      "revision": 152316920,
+      "originalTitle": "I the Supreme",
+      "workSource": "https://www.wikidata.org/wiki/Q5967498",
+      "evidence": "Я, Верховный",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q7774038": {
+      "value": "Свадьба",
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D1%81%D0%BF%D1%8F%D0%BD%D1%8C%D1%81%D0%BA%D0%B8%D0%B9,_%D0%A1%D1%82%D0%B0%D0%BD%D0%B8%D1%81%D0%BB%D0%B0%D0%B2",
+      "revision": 155376919,
+      "originalTitle": "The Wedding",
+      "workSource": "https://www.wikidata.org/wiki/Q7774038",
+      "evidence": "Свадьба",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q63998": {
+      "value": "Война и память",
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%83%D0%BA,_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD",
+      "revision": 146557929,
+      "originalTitle": "War and Remembrance",
+      "workSource": "https://www.wikidata.org/wiki/Q63998",
+      "evidence": "Война и память",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q255529": {
+      "value": "Возмущайтесь!",
+      "source": "https://ru.wikipedia.org/wiki/%D0%AD%D1%81%D1%81%D0%B5%D0%BB%D1%8C,_%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%A4%D1%80%D0%B5%D0%B4%D0%B5%D1%80%D0%B8%D0%BA",
+      "revision": 155656287,
+      "originalTitle": "Time for Outrage!",
+      "workSource": "https://www.wikidata.org/wiki/Q255529",
+      "evidence": "Возмущайтесь!",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q371694": {
+      "value": "Изменение",
+      "source": "https://ru.wikipedia.org/wiki/%D0%91%D1%8E%D1%82%D0%BE%D1%80,_%D0%9C%D0%B8%D1%88%D0%B5%D0%BB%D1%8C",
+      "revision": 150619857,
+      "originalTitle": "Second Thoughts",
+      "workSource": "https://www.wikidata.org/wiki/Q371694",
+      "evidence": "Изменение",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1635110": {
+      "value": "Эвелина",
+      "source": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BD%D0%B8,_%D0%A4%D0%B0%D0%BD%D0%BD%D0%B8",
+      "revision": 147489933,
+      "originalTitle": "Evelina",
+      "workSource": "https://www.wikidata.org/wiki/Q1635110",
+      "evidence": "Эвелина",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q16112236": {
+      "value": "Время смерти",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A7%D0%BE%D1%81%D0%B8%D1%87,_%D0%94%D0%BE%D0%B1%D1%80%D0%B8%D1%86%D0%B0",
+      "revision": 154296416,
+      "originalTitle": "A Time of Death",
+      "workSource": "https://www.wikidata.org/wiki/Q16112236",
+      "evidence": "Время смерти",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q120736317": {
+      "value": "Не вмещусь",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%81%D0%B8%D0%BC%D0%B8",
+      "revision": 154462954,
+      "originalTitle": "Sığmazam",
+      "workSource": "https://www.wikidata.org/wiki/Q120736317",
+      "evidence": "Не вмещусь",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q770735": {
+      "value": "Дон Хуан Тенорио",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D1%80%D0%B8%D0%BB%D1%8C%D1%8F-%D0%B8-%D0%9C%D0%BE%D1%80%D0%B0%D0%BB%D1%8C,_%D0%A5%D0%BE%D1%81%D0%B5",
+      "revision": 144312023,
+      "originalTitle": "Don Juan Tenorio",
+      "workSource": "https://www.wikidata.org/wiki/Q770735",
+      "evidence": "Дон Хуан Тенорио",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q7548132": {
+      "value": "Занесённые снегом",
+      "source": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B8%D1%82%D1%82%D1%8C%D0%B5%D1%80,_%D0%94%D0%B6%D0%BE%D0%BD_%D0%93%D1%80%D0%B8%D0%BD%D0%BB%D0%B8%D1%84",
+      "revision": 152468764,
+      "originalTitle": "Snow-Bound: A Winter Idyl",
+      "workSource": "https://www.wikidata.org/wiki/Q7548132",
+      "evidence": "Занесённые снегом",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3511565": {
+      "value": "Слёзы блудного сына",
+      "source": "https://ru.wikipedia.org/wiki/%D0%93%D1%83%D0%BD%D0%B4%D1%83%D0%BB%D0%B8%D1%87,_%D0%98%D0%B2%D0%B0%D0%BD",
+      "revision": 155080600,
+      "originalTitle": "Tears of the Prodigal Son",
+      "workSource": "https://www.wikidata.org/wiki/Q3511565",
+      "evidence": "Слёзы блудного сына",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3874134": {
+      "value": "Некрополь",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%85%D0%BE%D1%80,_%D0%91%D0%BE%D1%80%D0%B8%D1%81",
+      "revision": 151984829,
+      "originalTitle": "Necropolis",
+      "workSource": "https://www.wikidata.org/wiki/Q3874134",
+      "evidence": "Некрополь",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q5070836": {
+      "value": "Шансы",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BB%D0%B8%D0%BD%D0%B7,_%D0%94%D0%B6%D0%B5%D0%BA%D0%B8",
+      "revision": 155323873,
+      "originalTitle": "Chances",
+      "workSource": "https://www.wikidata.org/wiki/Q5070836",
+      "evidence": "Шансы",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q11785407": {
+      "value": "Мораль пани Дульской",
+      "source": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F,_%D0%93%D0%B0%D0%B1%D1%80%D0%B8%D0%B5%D0%BB%D1%8F",
+      "revision": 150701199,
+      "originalTitle": "The Morality of Mrs. Dulska",
+      "workSource": "https://www.wikidata.org/wiki/Q11785407",
+      "evidence": "Мораль пани Дульской",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q2436223": {
+      "value": "Истинные имена",
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BD%D0%B4%D0%B6,_%D0%92%D0%B5%D1%80%D0%BD%D0%BE%D1%80",
+      "revision": 149813780,
+      "originalTitle": "True Names",
+      "workSource": "https://www.wikidata.org/wiki/Q2436223",
+      "evidence": "Истинные имена",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q5477441": {
+      "value": "Марий Эпикуреец",
+      "source": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%82%D0%B5%D1%80,_%D0%A3%D0%BE%D0%BB%D1%82%D0%B5%D1%80",
+      "revision": 154740918,
+      "originalTitle": "Marius the Epicurean",
+      "workSource": "https://www.wikidata.org/wiki/Q5477441",
+      "evidence": "Марий Эпикуреец",
+      "basis": "Reviewed Russian title attested in the same author bibliography; work identity linked by Wikidata ID",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q482427": {
+      "value": "Опыт о критике",
+      "source": "https://www.lib.ru/POEZIQ/POUP/pope_critics.txt",
+      "originalTitle": "An Essay on Criticism",
+      "workSource": "https://www.wikidata.org/wiki/Q482427",
+      "evidence": "Опыт о критике",
+      "basis": "Russian translation by A. Subbotin, published in Poems, 1988",
+      "retrievedAt": "2026-10-18T10:29:48.832Z",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q6203929": {
+      "value": "Джняна-йога",
+      "source": "https://psylib.org.ua/books/vivek02/index.htm",
+      "originalTitle": "Jnana Yoga",
+      "workSource": "https://www.wikidata.org/wiki/Q6203929",
+      "evidence": "Джняна-йога",
+      "basis": "Russian edition translated by Ya. K. Popov, 1914",
+      "retrievedAt": "2026-10-18T10:29:48.832Z",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1736866": {
+      "value": "Кот в пустой квартире",
+      "source": "https://culture.pl/ru/article/takaya-raznaya-shimborskaya",
+      "originalTitle": "Cat in an Empty Apartment",
+      "workSource": "https://www.wikidata.org/wiki/Q1736866",
+      "evidence": "Кот в пустой квартире",
+      "basis": "Adam Mickiewicz Institute cultural publication explicitly identifies this Russian title variant",
+      "retrievedAt": "2026-10-18T10:29:48.832Z",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q588686": {
+      "value": "Спящие красавицы",
+      "source": "https://www.bakupages.com/ctg-show.php?cmm_id=0&ctg_id=3&id=2765",
+      "originalTitle": "The House of the Sleeping Beauties",
+      "workSource": "https://www.wikidata.org/wiki/Q588686",
+      "evidence": "Спящие красавицы",
+      "basis": "Book catalogue lists Kawabata, Russian translation by L. Levykina, ISBN 5-17-006728-3",
+      "retrievedAt": "2026-10-18T10:29:48.832Z",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3706675": {
+      "value": "Разговоры с Левкофеей",
+      "source": "https://aristeas.ru/26_9",
+      "originalTitle": "Dialogues with Leucò",
+      "workSource": "https://www.wikidata.org/wiki/Q3706675",
+      "evidence": "Разговоры с Левкофеей",
+      "basis": "Academic publication of Russian translation by O. P. Tsybenko identifies the original work",
+      "retrievedAt": "2026-10-18T10:29:48.832Z",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q8030711": {
+      "value": "Женщина в точке ноль",
+      "source": "https://sn-philol.cfuv.ru/wp-content/uploads/2017/01/076drevet.pdf",
+      "originalTitle": "Woman at Point Zero",
+      "workSource": "https://www.wikidata.org/wiki/Q8030711",
+      "evidence": "Женщина в точке ноль",
+      "basis": "Taurida National University research publication, 2013, pp. 475-479",
+      "retrievedAt": "2026-10-18T10:29:48.832Z",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q745250": {
+      "value": "Опасные видения",
+      "source": "https://eksmo.ru/book/opasnye-videniya-ITD1428567/",
+      "originalTitle": "Dangerous Visions",
+      "workSource": "https://www.wikidata.org/wiki/Q745250",
+      "evidence": "Опасные видения",
+      "basis": "Publisher catalogue, ISBN 978-5-04-215933-6",
+      "retrievedAt": "2026-10-18T10:29:48.832Z",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3052537": {
+      "value": "Банда гаечного ключа",
+      "source": "https://search.rsl.ru/ru/record/01000865591",
+      "originalTitle": "The Monkey Wrench Gang",
+      "workSource": "https://www.wikidata.org/wiki/Q3052537",
+      "evidence": "Банда гаечного ключа",
+      "basis": "Russian State Library catalogue, Ecology series volume 32, translated by E. B. Migunova, 2003",
+      "retrievedAt": "2026-10-18T10:29:48.832Z",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1920777": {
+      "value": "Ненависть к людям и раскаяние",
+      "source": "https://kp.rusneb.ru/item/material/5ddedd0c7d52b05595d64303",
+      "originalTitle": "Menschenhass und Reue",
+      "workSource": "https://www.wikidata.org/wiki/Q1920777",
+      "evidence": "Ненависть к людям и раскаяние",
+      "basis": "National Electronic Library rare book catalogue",
+      "retrievedAt": "2026-10-18T10:29:48.832Z",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q2647368": {
+      "value": "Капризы Марианны",
+      "source": "https://www.afisha.ru/performance/prihoti-lyubvi-ili-kaprizy-marianny-67750/",
+      "originalTitle": "The Moods of Marianne",
+      "workSource": "https://www.wikidata.org/wiki/Q2647368",
+      "evidence": "Капризы Марианны",
+      "basis": "Theatre production catalogue identifies the play by Alfred de Musset",
+      "retrievedAt": "2026-10-18T10:29:48.832Z",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q68931": {
+      "value": "Баллада повешенных",
+      "source": "https://gufo.me/dict/bse/%D0%92%D0%B8%D0%B9%D0%BE%D0%BD",
+      "originalTitle": "Ballade des pendus",
+      "workSource": "https://www.wikidata.org/wiki/Q68931",
+      "evidence": "Баллада повешенных",
+      "basis": "Great Soviet Encyclopedia entry identifies this Russian title",
+      "retrievedAt": "2026-10-18T10:29:48.832Z",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q20102776": {
+      "value": "Рифмы и легенды",
+      "source": "https://teolog.info/translations/tragicheskaya-romantika-gustavo-adol/",
+      "originalTitle": "Rimas y leyendas",
+      "workSource": "https://www.wikidata.org/wiki/Q20102776",
+      "evidence": "Рифмы и легенды",
+      "basis": "Russian translation publication explicitly pairs Rimas y leyendas with this Russian title",
+      "retrievedAt": "2026-10-18T10:29:48.832Z",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q3203532": {
+      "value": "История Товия и Сары",
+      "source": "https://cheloveknauka.com/poetika-religioznoy-dramy-polya-klodelya",
+      "originalTitle": "The Story of Tobie and Sara",
+      "workSource": "https://www.wikidata.org/wiki/Q3203532",
+      "evidence": "История Товия и Сары",
+      "basis": "Literature dissertation explicitly identifies this play title",
+      "retrievedAt": "2026-10-18T10:29:48.832Z",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    },
+    "Q1218618": {
+      "value": "Святые невинные",
+      "source": "https://science.usue.ru/images/docs/itogi/vinograd110722.pdf",
+      "originalTitle": "The Holy Innocents",
+      "workSource": "https://www.wikidata.org/wiki/Q1218618",
+      "evidence": "Святые невинные",
+      "basis": "University conference proceedings pair the Russian title with Los santos inocentes",
+      "retrievedAt": "2026-10-18T10:29:48.832Z",
+      "evidenceType": "Attested Russian title; source URL and revision identify supporting publication"
+    }
+  }
+}

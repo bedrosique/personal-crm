@@ -1,0 +1,62 @@
+# Dependencies and generated output
+node_modules/
+.pnpm-store/
+.next/
+out/
+dist/
+build/
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+
+# Local environment and credentials
+.env
+.env.*
+*.env
+*.env.*
+!/.env.example
+.npmrc
+.mcp.json
+secrets/
+credentials/
+*credentials*.json
+*service-account*.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.token
+
+# Backups, browser tests, and local data
+artifacts/
+playwright-report/
+test-results/
+postgres-data/
+pgdata/
+*.dump
+*.backup
+*.sql.gz
+
+# Agent state, logs, and personal editor settings
+.codex/
+.codex-*/
+codex-logs/
+codex_logs/
+.claude/
+.agents/
+.cursor/
+AGENTS.local.md
+CLAUDE.local.md
+history.jsonl
+*.log
+*.pid
+*.tmp
+*.temp
+*.bak
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,45 @@
+{
+  "name": "personal-crm",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1",
+    "typecheck": "tsc --noEmit",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "tsx scripts/migrate.ts",
+    "data:fetch": "node scripts/fetch-writers.mjs && node scripts/filter-literature.mjs && node scripts/resolve-writers.mjs && node scripts/verify-dates.mjs",
+    "db:seed": "tsx scripts/seed.ts",
+    "verify": "tsx scripts/verify.ts",
+    "test:e2e": "tsx scripts/test-e2e.ts",
+    "data:localize": "node scripts/fetch-writer-localization.mjs && node scripts/fetch-writer-bibliographies.mjs && node scripts/prepare-writer-localization.mjs",
+    "data:clean:preview": "tsx scripts/clean-writer-data.ts",
+    "data:clean": "tsx scripts/clean-writer-data.ts --apply"
+  },
+  "dependencies": {
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "dotenv": "^17.0.0",
+    "drizzle-orm": "^0.44.0",
+    "lucide-react": "^0.468.0",
+    "next": "^16.0.0",
+    "postgres": "^3.4.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "server-only": "^0.0.1",
+    "tailwind-merge": "^3.0.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "@tailwindcss/postcss": "^4.0.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "drizzle-kit": "^0.31.0",
+    "prettier": "^3.9.10",
+    "tailwindcss": "^4.0.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0"
+  }
+}
