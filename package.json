@@ -15,7 +15,8 @@
     "test:e2e": "tsx scripts/test-e2e.ts",
     "data:localize": "node scripts/fetch-writer-localization.mjs && node scripts/fetch-writer-bibliographies.mjs && node scripts/prepare-writer-localization.mjs",
     "data:clean:preview": "tsx scripts/clean-writer-data.ts",
-    "data:clean": "tsx scripts/clean-writer-data.ts --apply"
+    "data:clean": "tsx scripts/clean-writer-data.ts --apply",
+    "test:concurrency": "tsx scripts/test-contact-concurrency.ts"
   },
   "dependencies": {
     "class-variance-authority": "^0.7.1",

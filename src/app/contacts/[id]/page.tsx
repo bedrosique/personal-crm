@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { eq } from "drizzle-orm";
+import { eq, getTableColumns } from "drizzle-orm";
+import { contactVersion } from "@/db/contact-version";
 import { db } from "@/db";
 import { contacts } from "@/db/schema";
 import { Header } from "@/components/header";
@@ -15,7 +16,10 @@ export default async function ContactPage({
 }) {
   const { id } = await params;
   if (!/^[0-9a-f-]{36}$/i.test(id)) notFound();
-  const [contact] = await db.select().from(contacts).where(eq(contacts.id, id));
+  const [contact] = await db
+    .select({ ...getTableColumns(contacts), version: contactVersion })
+    .from(contacts)
+    .where(eq(contacts.id, id));
   if (!contact) notFound();
   const { saved } = await searchParams;
   return (
@@ -32,20 +36,12 @@ export default async function ContactPage({
         <p className="mb-7 text-sm text-stone-500">
           Важные детали и история вашего общения.
         </p>
-        {saved && (
-          <p
-            role="status"
-            className="mb-5 rounded-xl bg-secondary p-4 text-sm text-primary"
-          >
-            Изменения сохранены
-          </p>
-        )}
-        <div className="rounded-2xl border border-border bg-white p-6 sm:p-8">
-          <ContactForm
-            key={contact.updatedAt.toISOString()}
-            contact={contact}
-          />
-        </div>
+        <ContactForm
+          key={contact.id}
+          contact={contact}
+          version={contact.version}
+          initialSaved={saved === "1"}
+        />
       </main>
     </>
   );

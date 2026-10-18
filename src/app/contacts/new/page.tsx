@@ -13,9 +13,7 @@ export default function NewContact() {
         <p className="mb-8 text-sm text-stone-500">
           Достаточно имени. Остальное можно добавить позже.
         </p>
-        <div className="rounded-2xl border border-border bg-white p-6 sm:p-8">
-          <ContactForm />
-        </div>
+        <ContactForm />
       </main>
     </>
   );
