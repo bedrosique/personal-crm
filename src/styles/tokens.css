@@ -1,0 +1,139 @@
+:root {
+  /* SVYAZI palette and typography shared with the landing page. */
+  --sv-paper: #f0ece2;
+  --sv-ink: #11120d;
+  --sv-wine: #782b36;
+  --sv-lime: #ceff42;
+  --sv-paper-light: #f8f4eb;
+  --sv-paper-deep: #e7dfce;
+  --sv-muted: #57564e;
+  --sv-rule: #c3bcad;
+  --sv-field: #fffdf8;
+  --sv-font-display: var(--font-oswald), "Arial Narrow", sans-serif;
+  --sv-font-body: Arial, Helvetica, sans-serif;
+  --sv-font-mono: "Courier New", monospace;
+
+  /* Semantic shadcn/ui tokens for all controls and surfaces. */
+  --background: var(--sv-paper);
+  --foreground: var(--sv-ink);
+  --card: var(--sv-paper-light);
+  --card-foreground: var(--sv-ink);
+  --popover: var(--sv-field);
+  --popover-foreground: var(--sv-ink);
+  --primary: var(--sv-lime);
+  --primary-foreground: var(--sv-ink);
+  --secondary: var(--sv-paper-deep);
+  --secondary-foreground: var(--sv-ink);
+  --muted: var(--sv-paper-light);
+  --muted-foreground: var(--sv-muted);
+  --accent: color-mix(in srgb, var(--sv-lime) 14%, var(--sv-paper-light));
+  --accent-foreground: var(--sv-ink);
+  --destructive: var(--sv-wine);
+  --destructive-foreground: var(--sv-field);
+  --border: var(--sv-rule);
+  --input: var(--sv-rule);
+  --ring: var(--sv-wine);
+  --radius: 0.375rem;
+  --radius-control: var(--radius);
+  --radius-sheet: 0.625rem;
+  --radius-index: 0.25rem;
+
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-7: 1.75rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --space-14: 3.5rem;
+  --space-16: 4rem;
+  --page-max: 80rem;
+  --contact-page-max: 58rem;
+  --page-gutter: var(--space-5);
+  --page-top: var(--space-8);
+  --page-bottom: var(--space-14);
+  --page-heading-gap: var(--space-6);
+  --sheet-padding: var(--space-5);
+  --form-gap: var(--space-6);
+  --header-padding: var(--space-4);
+  --row-padding-x: var(--space-4);
+  --row-padding-y: var(--space-4);
+  --row-gap: var(--space-4);
+
+  --font-size-label: 0.6875rem;
+  --font-size-caption: 0.75rem;
+  --font-size-small: 0.875rem;
+  --font-size-body: 1rem;
+  --font-size-name: 1rem;
+  --font-size-section: 1.75rem;
+  --font-size-title: 3.5rem;
+  --font-size-person: 2.75rem;
+  --font-size-brand: 2.5rem;
+  --font-weight-body: 400;
+  --font-weight-medium: 500;
+  --font-weight-strong: 700;
+  --line-height-body: 1.6;
+  --line-height-control: 1.4;
+  --line-height-display: 1.1;
+  --letter-spacing-display: -0.035em;
+  --letter-spacing-brand: -0.055em;
+  --letter-spacing-label: 0.11em;
+
+  --control-height: 3rem;
+  --control-height-small: 2.75rem;
+  --control-padding-x: var(--space-4);
+  --control-padding-y: var(--space-3);
+  --button-padding-x: var(--space-5);
+  --button-gap: var(--space-2);
+  --icon-size: 1.125rem;
+  --icon-size-large: 1.5rem;
+  --index-size: 2.5rem;
+  --notes-min-height: 16rem;
+  --border-width: 1px;
+  --focus-width: 2px;
+  --focus-offset: 3px;
+  --focus-inset: -3px;
+  --focus-shadow: 0 0 0 3px color-mix(in srgb, var(--sv-wine) 14%, transparent);
+  --sheet-shadow: 0 8px 24px color-mix(in srgb, var(--sv-ink) 4%, transparent);
+  --texture-opacity: 0.055;
+  --disabled-opacity: 0.55;
+  --transition-duration: 140ms;
+  --feedback-border-width: 3px;
+  --feedback-success-background: color-mix(
+    in srgb,
+    var(--sv-lime) 12%,
+    var(--sv-paper-light)
+  );
+  --feedback-error-background: color-mix(
+    in srgb,
+    var(--sv-wine) 5%,
+    var(--sv-paper-light)
+  );
+  --primary-hover: color-mix(in srgb, var(--sv-lime) 88%, var(--sv-ink));
+  --contact-columns: minmax(0, 1.5fr) minmax(0, 1fr) minmax(0, 1.3fr)
+    var(--icon-size);
+}
+
+@media (min-width: 48rem) {
+  :root {
+    --page-gutter: var(--space-8);
+    --page-top: var(--space-12);
+    --page-heading-gap: var(--space-8);
+    --sheet-padding: var(--space-8);
+    --row-padding-x: var(--space-6);
+    --row-padding-y: var(--space-5);
+    --font-size-title: 4.5rem;
+    --font-size-person: 3.5rem;
+    --font-size-brand: 2.75rem;
+    --notes-min-height: 18rem;
+  }
+}
+
+@media (min-width: 75rem) {
+  :root {
+    --page-gutter: var(--space-12);
+  }
+}

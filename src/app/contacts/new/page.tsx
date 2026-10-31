@@ -1,18 +1,21 @@
 import Link from "next/link";
+import { ArrowLeft } from "lucide-react";
 import { Header } from "@/components/header";
 import { ContactForm } from "@/components/contact-form";
 export default function NewContact() {
   return (
     <>
       <Header />
-      <main className="mx-auto max-w-3xl px-5 py-10">
-        <Link href="/" className="text-sm text-primary">
-          ← Все контакты
+      <main className="app-container app-main contact-page">
+        <Link href="/" className="back-link">
+          <ArrowLeft aria-hidden="true" /> Все контакты
         </Link>
-        <h1 className="mb-2 mt-7 text-3xl font-semibold">Новый контакт</h1>
-        <p className="mb-8 text-sm text-stone-500">
-          Достаточно имени. Остальное можно добавить позже.
-        </p>
+        <div className="contact-heading">
+          <h1 className="person-title">Новый контакт</h1>
+          <p className="page-description">
+            Достаточно имени. Остальное можно добавить позже.
+          </p>
+        </div>
         <ContactForm />
       </main>
     </>

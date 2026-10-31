@@ -8,6 +8,7 @@ import postgres from "postgres";
 import { drizzle } from "drizzle-orm/postgres-js";
 import { migrate } from "drizzle-orm/postgres-js/migrator";
 import { runContactConcurrencyTests } from "../tests/contact-concurrency";
+import { runContactInterfaceTests } from "../tests/contact-interface";
 const pause = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
 async function freePort() {
   const server = net.createServer();
@@ -86,6 +87,7 @@ async function main() {
       await pause(500);
     }
     assert.ok(ready, "Isolated server did not become ready");
+    await runContactInterfaceTests(baseUrl, isolated);
     await runContactConcurrencyTests(baseUrl, isolated);
   } finally {
     if (server && server.exitCode === null) {

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { ArrowLeft } from "lucide-react";
 import { notFound } from "next/navigation";
 import { eq, getTableColumns } from "drizzle-orm";
 import { contactVersion } from "@/db/contact-version";
@@ -25,17 +26,17 @@ export default async function ContactPage({
   return (
     <>
       <Header />
-      <main className="mx-auto max-w-3xl px-5 py-10">
-        <Link href="/" className="text-sm text-primary">
-          ← Все контакты
+      <main className="app-container app-main contact-page">
+        <Link href="/" className="back-link">
+          <ArrowLeft aria-hidden="true" /> Все контакты
         </Link>
-        <p className="mb-2 mt-7 text-xs uppercase tracking-widest text-primary">
-          Карточка контакта
-        </p>
-        <h1 className="mb-3 text-3xl font-semibold">{contact.name}</h1>
-        <p className="mb-7 text-sm text-stone-500">
-          Важные детали и история вашего общения.
-        </p>
+        <div className="contact-heading">
+          <p className="eyebrow">Карточка контакта</p>
+          <h1 className="person-title">{contact.name}</h1>
+          <p className="page-description">
+            Важные детали и история вашего общения.
+          </p>
+        </div>
         <ContactForm
           key={contact.id}
           contact={contact}

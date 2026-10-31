@@ -29,15 +29,12 @@ export function ContactForm({
   return (
     <>
       {state.saved && (
-        <p
-          role="status"
-          className="mb-5 rounded-xl bg-secondary p-4 text-sm text-primary"
-        >
+        <p role="status" className="feedback feedback--success">
           Изменения сохранены
         </p>
       )}
-      <div className="rounded-2xl border border-border bg-white p-6 sm:p-8">
-        <form action={action} className="space-y-6">
+      <div className="contact-sheet">
+        <form action={action} className="contact-fields">
           {contact && (
             <>
               <input type="hidden" name="id" value={contact.id} />
@@ -46,7 +43,7 @@ export function ContactForm({
           )}
           <label>
             <span className="label">
-              Имя <span className="text-primary">*</span>
+              Имя <span className="required-indicator">*</span>
             </span>
             <Input
               name="name"
@@ -57,7 +54,7 @@ export function ContactForm({
               placeholder="Как зовут человека"
             />
           </label>
-          <div className="grid gap-5 sm:grid-cols-2">
+          <div className="contact-methods">
             <label>
               <span className="label">Телефон</span>
               <Input
@@ -92,15 +89,15 @@ export function ContactForm({
             />
           </label>
           {state.error && (
-            <p role="alert" className="text-red-700">
+            <p role="alert" className="feedback feedback--error">
               {state.error}
             </p>
           )}
-          <div className="flex items-center gap-4 border-t border-border pt-6">
+          <div className="form-actions">
             <Button type="submit" disabled={pending}>
               {pending ? "Сохраняем…" : "Сохранить контакт"}
             </Button>
-            <p className="text-xs text-stone-500">Сохранится в вашей базе</p>
+            <p className="form-hint">Сохранится в вашей базе</p>
           </div>
         </form>
       </div>
