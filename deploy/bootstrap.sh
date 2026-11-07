@@ -1,13 +1,17 @@
 #!/usr/bin/env bash
 set -euo pipefail
 cd /home/svyazi-admin/crm-deploy-setup
-if ! command -v docker >/dev/null; then
-  apt-get update
-  DEBIAN_FRONTEND=noninteractive apt-get install -y docker.io docker-compose-v2
+if [ -S /run/user/1000/docker.sock ]; then
+  echo 'Existing rootless Docker detected'
+  /home/svyazi-admin/.local/bin/docker compose version
+else
+  echo 'Expected rootless Docker is unavailable; no changes made'
+  exit 1
 fi
-docker compose version
-systemctl enable --now docker
-usermod -aG docker svyazi-admin
+if ! /home/svyazi-admin/.local/bin/docker compose version >/dev/null 2>&1; then
+  apt-get update
+  DEBIAN_FRONTEND=noninteractive apt-get install -y docker-compose-v2
+fi
 install -d -m 700 -o svyazi-admin -g svyazi-admin /opt/personal-crm
 install -m 644 -o svyazi-admin -g svyazi-admin compose.production.yaml /opt/personal-crm/
 install -m 755 deploy.sh /usr/local/sbin/personal-crm-deploy

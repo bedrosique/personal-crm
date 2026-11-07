@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 set -euo pipefail
 umask 077
+export PATH="/home/svyazi-admin/.local/bin:$PATH"
+unset DOCKER_CONTEXT
+export DOCKER_HOST=unix:///run/user/1000/docker.sock
 image=${1:?Image required}
 [[ "$image" =~ ^ghcr\.io/bedrosique/personal-crm@sha256:[a-f0-9]{64}$ ]] || exit 2
 cd /opt/personal-crm
