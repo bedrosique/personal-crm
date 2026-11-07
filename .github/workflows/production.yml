@@ -40,22 +40,13 @@ jobs:
     environment: production
     permissions:
       packages: read
+      contents: read
     steps:
+      - uses: actions/checkout@v7.0.1
       - name: Deploy immutable image
         env:
           DEPLOY_KEY: ${{ secrets.PRODUCTION_SSH_KEY }}
           KNOWN_HOSTS: ${{ secrets.PRODUCTION_KNOWN_HOSTS }}
           REGISTRY_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           IMAGE: ghcr.io/bedrosique/personal-crm@${{ needs.build.outputs.digest }}
-        run: |
-          set -euo pipefail
-          umask 077
-          mkdir -p ~/.ssh
-          printf '%s\n' "$DEPLOY_KEY" > ~/.ssh/deploy_key
-          printf '%s\n' "$KNOWN_HOSTS" > ~/.ssh/known_hosts
-          trap 'rm -f ~/.ssh/deploy_key' EXIT
-          printf '%s\n%s\n' "$IMAGE" "$REGISTRY_TOKEN" | ssh -T -o BatchMode=yes -o StrictHostKeyChecking=yes -i ~/.ssh/deploy_key svyazi-admin@5.253.62.191 deploy
-      - name: Verify public HTTPS
-        run: |
-          curl --fail --silent --show-error --retry 6 --retry-all-errors --retry-delay 5 https://crm.olechkan.site/health
-          curl --fail --silent --show-error --output /dev/null https://crm.olechkan.site/
+        run: bash deploy/ci-deploy.sh

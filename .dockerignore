@@ -7,3 +7,15 @@ artifacts
 *.log
 secrets
 credentials
+.npmrc
+.mcp.json
+.codex
+.claude
+*.pem
+*.key
+design-concepts
+.github
+deploy
+specs
+README.md
+AGENTS.md
